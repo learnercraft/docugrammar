@@ -77,6 +77,15 @@
     font-style: normal;
 }
 
+html {
+    font-variation-settings: "opsz" var(--yllst-optical-size);
+}
+
+* {
+    font-family: var(--ifm-font-family-base);
+    font-variation-settings: "opsz" var(--yllst-optical-size);
+}
+
 .logo-home {
     fill: var(--ifm-font-color-base-inverse);
 }
