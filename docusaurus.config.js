@@ -19,6 +19,7 @@ const config = {
     organizationName: "yell0wsuit",
     projectName: "grammarsaurus",
     trailingSlash: false,
+    deploymentBranch: "main",
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "throw",
