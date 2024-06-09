@@ -4,6 +4,8 @@ Grammarsaurus -- a collection of grammar references powered by Docusaurus.
 
 ![Social card](./static/img/socialcard.jpg)
 
+[![Deploy to GitHub Pages](https://github.com/yell0wsuit/grammarsaurus/actions/workflows/deploy.yaml/badge.svg)](https://github.com/yell0wsuit/grammarsaurus/actions/workflows/deploy.yaml)
+
 ## Introduction
 
 Grammarsaurus is an extensive collection of grammar references designed to help learners understand and master the intricacies of language. Powered by Docusaurus, it offers a user-friendly and visually appealing platform for accessing a wealth of grammar resources.
