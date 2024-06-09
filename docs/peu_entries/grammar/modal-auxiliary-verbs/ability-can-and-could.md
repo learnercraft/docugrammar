@@ -100,7 +100,7 @@ Negative sentences suggest that somebody would not have been able to do somethin
 - *I **couldn’t have won**, so I didn’t go in for the race.*
 - *I **couldn’t have enjoyed** myself more – it was a perfect day.*
 
-The structure is sometimes used to talk about past events which are not certain to have happened (like *may/might have* – [(see here)](./chances-may-might-and-could#may-might-could-have-she-may-have-missed-her-train).
+The structure is sometimes used to talk about past events which are not certain to have happened (like *may/might have* – [(see here)](./chances-may-might-and-could#maymightcould-have--she-may-have-missed-her-train).
 
 - *‘Who sent those flowers?’ ‘I’m not sure. It **could have been** your mother.’*
 

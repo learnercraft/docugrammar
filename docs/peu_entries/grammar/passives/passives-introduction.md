@@ -88,7 +88,7 @@ For more about reflexive verbs, [(see here)](./../pronouns/reflexive-pronouns-my
 
 For active and passive past participles, [(see here)](./../infinitives-ing-forms-and-past-participles/participles-ing-and-ed-forms-used-like-adjectives#participles-and-adjectives-interested-and-interesting-etc).
 
-For *-ing* forms with passive meanings after *need* and *want* (e.g. *My watch needs cleaning*), [(see here)](./../infinitives-ing-forms-and-past-participles-after-nouns-verbs-etc/ing-forms-after-verbs-i-enjoy-travelling#ing-form-with-passive-meaning-your-hair-needs-cutting).
+For *-ing* forms with passive meanings after *need* and *want* (e.g. *My watch needs cleaning*), [(see here)](./../infinitives-ing-forms-and-past-participles-after-nouns-verbs-etc/ing-forms-after-verbs-i-enjoy-travelling#-ing-form-with-passive-meaning-your-hair-needs-cutting).
 
 For more about the way information is organised in sentences, [(see here)](./../information-structure/information-structure-normal-order-and-variations).
 
@@ -118,7 +118,7 @@ She was broken her mirror. [(see here)](./verbs-with-prepositions-in-the-passive
 
 That she was a spy was thought by nobody. [(see here)](./it-was-thought-that#clause-objects-nobody-thought-that-she-was-a-spy)
 
-It is expected to make a profit this year. [(see here)](./it-was-thought-that#infinitive-objects-they-decided-to)
+It is expected to make a profit this year. [(see here)](./it-was-thought-that#infinitive-objects-they-decided-to-)
 
 They say his company to be in trouble. [(see here)](./he-is-believed-to-be#he-is-believed-to-be-dangerous)
 

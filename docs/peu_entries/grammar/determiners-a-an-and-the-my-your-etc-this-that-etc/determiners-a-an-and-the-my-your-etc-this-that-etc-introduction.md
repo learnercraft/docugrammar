@@ -53,9 +53,9 @@ Give it to cat. [(see here)](./articles-basic-information-b#four-common-mistakes
 
 You shouldn’t go out without coat. [(see here)](./more-about-a-an#one-person-or-thing)
 
-Annie is engineer. [(see here)](./more-about-a-an#uses-of-a-an) c
+Annie is engineer. [(see here)](./more-about-a-an#uses-of-aan) c
 
-I used my shoe as hammer. [(see here)](./more-about-a-an#uses-of-a-an) c
+I used my shoe as hammer. [(see here)](./more-about-a-an#uses-of-aan) c
 
 My uncle used to be a MP. [(see here)](./more-about-a-an#descriptions)
 
@@ -77,9 +77,9 @@ I was surprised at the amount of the money collected. [(see here)](./special-rul
 
 They appointed him the Head Librarian. [(see here)](./special-rules-and-exceptions#jobs-and-positions-he-was-elected-president)
 
-What lovely dress! [(see here)](./special-rules-and-exceptions#exclamations-what-a)
+What lovely dress! [(see here)](./special-rules-and-exceptions#exclamations-what-a-)
 
-What a nonsense! [(see here)](./special-rules-and-exceptions#exclamations-what-a)
+What a nonsense! [(see here)](./special-rules-and-exceptions#exclamations-what-a-)
 
 Katy broke the arm climbing. [(see here)](./special-rules-and-exceptions#parts-of-the-body-etc)
 

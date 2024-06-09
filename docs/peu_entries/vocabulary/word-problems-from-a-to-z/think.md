@@ -20,7 +20,7 @@ When *think* has other meanings (e.g. *consider* or *plan*) progressives are pos
 
 ## *-ing* forms
 
-After *think*, *\-ing* forms can be used, but infinitives are not usually possible unless there is an object [(see here)](./think#think-object-to-be-complement) below).
+After *think*, *\-ing* forms can be used, but infinitives are not usually possible unless there is an object [(see here)](./think#think--object--to-be--complement) below).
 
 - *She’s **thinking of going** to Brazil next year.* (not *~~She’s thinking to go …~~*)
 

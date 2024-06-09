@@ -21,10 +21,10 @@ Here are examples of the most important differences. Some other differences are 
 | *I **(can) see** a car coming.* | *I **can see** a car coming.* [(see here)](./../modal-auxiliary-verbs/can-and-could-with-see-hear-etc#see-hear-feel-smell-taste) |
 | *It’s important that he **be** told.* | *It’s important that he **should be** told.* [(see here)](./../conjunctions-sentences-and-clauses/subjunctive-that-she-go-that-they-be-if-i-were-etc) |
 | *‘Will you buy it?’  ‘I ***may***.’* | … *I **may (do)**.* [(see here)](./../be-have-and-do/do-substitute-verb-i-may-do) |
-| *The committee **meets** tomorrow.* | *The committee **meet**/**meets** tomorrow.* [(see here)](./../nouns-and-noun-phrases-agreement/singular-expressions-with-plural-verbs#groups-of-people-the-team-is-are) |
+| *The committee **meets** tomorrow.* | *The committee **meet**/**meets** tomorrow.* [(see here)](./../nouns-and-noun-phrases-agreement/singular-expressions-with-plural-verbs#groups-of-people-the-team-isare-) |
 | *(on the phone) Hello, is **this** Susan?* | *Hello, is **that** Susan?* [(see here)](./../determiners-a-an-and-the-my-your-etc-this-that-etc/this-and-that#on-the-telephone) |
 | *He looked at me **real strange**. (very informal) (or He looked at me ***really strangely***.)* | *He looked at me **really strangely**.* [(see here)](./../adverbs-and-adverbials/adverbs-or-adjectives-confusing-cases) |
-| *He **probably has** arrived by now. (or He ***has probably*** arrived …)* | *He **has probably** arrived by now.* [(see here)](./../adverbs-and-adverbials/mid-position-details#after-am-are-is-was-were) |
+| *He **probably has** arrived by now. (or He ***has probably*** arrived …)* | *He **has probably** arrived by now.* [(see here)](./../adverbs-and-adverbials/mid-position-details#after-amareiswaswere) |
 | ***Should** I call the hospital?* | ***Shall/Should** I call the hospital?* |
 
 Besides *get*, some other verbs have different forms in British and American English [(see here)](./../verbs/irregular-verbs#notes).

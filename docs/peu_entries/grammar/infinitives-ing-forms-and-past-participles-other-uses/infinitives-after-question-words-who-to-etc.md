@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Indirect questions: *Tell us what to do.*
 
-In indirect speech [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-infinitives#he-asked-her-how-to), we can use an infinitive after the question words *who*, *what*, *where*, etc (but not usually *why*). This structure expresses ideas such as obligation and possibility.
+In indirect speech [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-infinitives#he-asked-her-how-to-), we can use an infinitive after the question words *who*, *what*, *where*, etc (but not usually *why*). This structure expresses ideas such as obligation and possibility.
 
 - *I wonder **who to invite**.* (= … who I should invite.)
 - *Tell us **what to do**.*

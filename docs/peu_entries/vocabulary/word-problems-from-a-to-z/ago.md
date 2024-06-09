@@ -13,7 +13,7 @@ sidebar_position: 14
 
 ## Tenses
 
-An expression with *ago* refers to a finished time, and is normally used with a past tense, not a present perfect [(see here)](./../../grammar/past-and-perfect-tenses/present-perfect-basic-information#repetition-up-to-now-i-ve-written-six-emails).
+An expression with *ago* refers to a finished time, and is normally used with a past tense, not a present perfect [(see here)](./../../grammar/past-and-perfect-tenses/present-perfect-basic-information#repetition-up-to-now-ive-written-six-emails-).
 
 - *She **phoned** a few minutes ago.* (not *~~She has phoned …~~*)
 - *‘Where’s Mike? ’ ‘He **was working** outside ten minutes ago.’*

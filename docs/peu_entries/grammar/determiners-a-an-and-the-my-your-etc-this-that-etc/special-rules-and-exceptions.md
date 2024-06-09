@@ -324,7 +324,7 @@ We usually leave out articles in abbreviated styles [(see here)](./../written-te
 
 For articles with abbreviations (*NATO*, *the USA*), [(see here)](./../../vocabulary/word-formation-and-spelling/abbreviations#initial-letter-abbreviations).
 
-For *the* in double comparatives (*the more*, *the better*), [(see here)](./../comparison/using-comparatives-and-superlatives#the-the).
+For *the* in double comparatives (*the more*, *the better*), [(see here)](./../comparison/using-comparatives-and-superlatives#the--the-).
 
 For *a* with *few* and *little*, [(see here)](./../determiners-quantifiers/a-little-and-a-few).
 
@@ -336,8 +336,8 @@ For *the Japanese*, etc, [(see here)](./../adjectives/adjectives-without-nouns#a
 
 For *next* and *the next*, [(see here)](./../../vocabulary/word-problems-from-a-to-z/next-and-the-next-nearest); for *last* and *the last*, [(see here)](./../../vocabulary/word-problems-from-a-to-z/last-the-last-the-latest).
 
-For *the* instead of *enough*, [(see here)](./../../vocabulary/word-problems-from-a-to-z/enough#the-enough-leaving-out-enough).
+For *the* instead of *enough*, [(see here)](./../../vocabulary/word-problems-from-a-to-z/enough#the--enough-leaving-out-enough).
 
-For *another two days*, *a good three weeks*, etc, [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-a-an-adjective).
+For *another two days*, *a good three weeks*, etc, [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-aan--adjective).
 
 :::

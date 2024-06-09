@@ -30,11 +30,11 @@ The forecast it was reasonably accurate. [(see here)](./personal-pronouns-basic-
 
 ‘Who’s that over there?’  ‘He’s John Cook.’  [(see here)](./personal-pronouns-basic-information#it-used-to-identify)
 
-Everybody except he can come. [(see here)](./personal-pronouns-advanced-points#as-than-but-and-except-me-or-i)
+Everybody except he can come. [(see here)](./personal-pronouns-advanced-points#as-than-but-and-except--me-or-i)
 
-It’s for he to decide. [(see here)](./personal-pronouns-advanced-points#mixed-subject-and-object-it-s-for-him-to-decide)
+It’s for he to decide. [(see here)](./personal-pronouns-advanced-points#mixed-subject-and-object-its-for-him-to-decide)
 
-He who leaves last should lock the door. [(see here)](./personal-pronouns-advanced-points#he-she-who)
+He who leaves last should lock the door. [(see here)](./personal-pronouns-advanced-points#heshe-who-)
 
 Why don’t I and you go away for the weekend? [(see here)](./personal-pronouns-advanced-points#politeness)
 
@@ -52,15 +52,15 @@ His book’s selling itself well. [(see here)](./reflexive-pronouns-myself-etc#r
 
 Try to concentrate yourself. [(see here)](./reflexive-pronouns-myself-etc#reflexives-not-used)
 
-Susan and Daniel talk to themselves on the phone every day. [(see here)](./reciprocal-pronouns-each-other-and-one-another#selves-possessives-and-each-other-one-another)
+Susan and Daniel talk to themselves on the phone every day. [(see here)](./reciprocal-pronouns-each-other-and-one-another#-selves-possessives-and-each-other--one-another)
 
 One speaks English in this shop. [(see here)](./one-you-and-they-used-for-people-in-general#one-and-you-only-used-in-generalisations)
 
 One speaks a strange dialect where I come from. [(see here)](./one-you-and-they-used-for-people-in-general#one-and-you-only-used-in-generalisations)
 
-In the 16th century one believed in witches. [(see here)](./one-you-and-they-used-for-people-in-general#people-including-the-speaker-hearer)
+In the 16th century one believed in witches. [(see here)](./one-you-and-they-used-for-people-in-general#people-including-the-speakerhearer)
 
-We’re looking for a house. We’d like a one with a garden. [(see here)](./one-substitute-word-a-big-one#a-one)
+We’re looking for a house. We’d like a one with a garden. [(see here)](./one-substitute-word-a-big-one#a--one)
 
 If you haven’t got fresh juice I’ll take canned one. [(see here)](./one-substitute-word-a-big-one#uncountable-nouns)
 
@@ -70,6 +70,6 @@ A grandparent’s job is easier than a parent’s one. [(see here)](./one-substi
 
 Do you need coffee cups or tea ones? [(see here)](./one-substitute-word-a-big-one#noun-modifiers)
 
-Let’s go and ask the old one for advice. [(see here)](./one-substitute-word-a-big-one#one-s-always-refers-back)
+Let’s go and ask the old one for advice. [(see here)](./one-substitute-word-a-big-one#ones-always-refers-back)
 
 :::

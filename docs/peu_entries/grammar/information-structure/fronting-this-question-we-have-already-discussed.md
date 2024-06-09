@@ -67,7 +67,7 @@ Fronted adjectives and adverbs are possible in a structure with *as* or *though*
 
 :::note
 
-See also entries on basic word order [(see here)](./../basic-clause-types/sentence-structure-basic-word-order), normal order and variations [(see here)](./information-structure-normal-order-and-variations), ‘spacing out’ information in speech [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#spacing-out-information-a-course-with-three-levels-it-s-carefully-put-together), tags [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#tags-they-work-very-hard-most-of-them) and cleft sentences ( [(see here)](./cleft-sentences-it-was-my-secretary-who).
+See also entries on basic word order [(see here)](./../basic-clause-types/sentence-structure-basic-word-order), normal order and variations [(see here)](./information-structure-normal-order-and-variations), ‘spacing out’ information in speech [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#spacing-out-information-a-course-with-three-levels-its-carefully-put-together), tags [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#tags-they-work-very-hard-most-of-them) and cleft sentences ( [(see here)](./cleft-sentences-it-was-my-secretary-who).
 
 For the use of passive and other structures to bring objects to the front, [(see here)](./information-structure-normal-order-and-variations#choosing-the-right-structure), [(see here)](./../passives/when-do-we-use-passive-structures#interest-in-the-action).
 

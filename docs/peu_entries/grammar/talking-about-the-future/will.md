@@ -60,11 +60,11 @@ For details, [(see here)](./going-to).
 
 ## Not used in subordinate clauses: *when I arrive*
 
-In subordinate clauses, we usually use present tenses instead of *will* [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#present-instead-of-future-i-ll-write-when-i-have-time).
+In subordinate clauses, we usually use present tenses instead of *will* [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#present-instead-of-future-ill-write-when-i-have-time).
 
 - *I’ll phone you when I **arrive**.* (not *~~… when I will arrive.~~*)
 
-For exceptions, [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#future-in-subordinate-clauses-where-she-will-be), [(see here)](./../if/if-will).
+For exceptions, [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#future-in-subordinate-clauses--where-she-will-be), [(see here)](./../if/if-will).
 
 :::note
 

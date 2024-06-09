@@ -31,7 +31,7 @@ We also use *could* to ask for permission; it is more polite or formal than *can
 
 There is an old belief that *may*/*might* are more ‘correct’ than *can*/*could* in these uses, but this does not reflect actual usage.
 
-*Must not* [(see here)](./strong-obligation-must-will#negatives-you-mustn-t-can-t) can also be used to refuse permission; it is more emphatic than *can’t* /*may not*.
+*Must not* [(see here)](./strong-obligation-must-will#negatives-you-mustntcant-) can also be used to refuse permission; it is more emphatic than *can’t* /*may not*.
 
 ## Talking about permission: *Can everybody …?*
 

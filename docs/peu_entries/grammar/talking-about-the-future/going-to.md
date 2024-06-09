@@ -49,7 +49,7 @@ In informal speech, *going to* is often pronounced /gənə/. This is sometimes s
 
 For *was going to*, *has been going to*, etc, [(see here)](./future-in-the-past).
 
-For *going to* … compared with the present progressive, [(see here)](./present-progressive-for-future#present-progressive-and-going-to-differences).
+For *going to* … compared with the present progressive, [(see here)](./present-progressive-for-future#present-progressive-and-going-to--differences).
 
 For a comparison with *will*, [(see here)](./will-going-to-and-present-progressive-advanced-points).
 

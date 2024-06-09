@@ -44,7 +44,7 @@ The difference between *across* and *through* is like the difference between *on
 
 For *over* and *above*, [(see here)](./above-and-over).
 
-For **across from** (AmE), [(see here)](./opposite-facing-and-in-front-of#across-a-road-room-etc-from-opposite-facing).
+For **across from** (AmE), [(see here)](./opposite-facing-and-in-front-of#across-a-roadroom-etc-from-oppositefacing).
 
 For other uses of these words, see a good dictionary.
 

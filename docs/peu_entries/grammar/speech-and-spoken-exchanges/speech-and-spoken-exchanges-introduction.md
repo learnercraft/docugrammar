@@ -28,11 +28,11 @@ You never say what you’re thinking, don’t you? [(see here)](./question-tags-
 
 ‘Are you ready?’  ‘Yes, I’m.’  [(see here)](./short-answers-yes-he-can-etc)
 
-‘Louise can dance beautifully.’  ‘So can her sister dance.’  [(see here)](./so-am-i-neither-do-they-etc#so-auxiliary-subject)
+‘Louise can dance beautifully.’  ‘So can her sister dance.’  [(see here)](./so-am-i-neither-do-they-etc#so--auxiliary--subject)
 
-‘I’m getting bored.’  ‘I also.’  [(see here)](./so-am-i-neither-do-they-etc#so-auxiliary-subject)
+‘I’m getting bored.’  ‘I also.’  [(see here)](./so-am-i-neither-do-they-etc#so--auxiliary--subject)
 
-Joe didn’t phone, and neither didn’t Kate. [(see here)](./so-am-i-neither-do-they-etc#neither-do-i-i-can-t-either-etc)
+Joe didn’t phone, and neither didn’t Kate. [(see here)](./so-am-i-neither-do-they-etc#neither-do-i-i-cant-either-etc)
 
 Couldn’t you babysit this evening. please? [(see here)](./politeness-using-questions#negative-questions)
 

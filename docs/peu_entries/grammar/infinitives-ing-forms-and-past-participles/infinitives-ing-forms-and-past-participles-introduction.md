@@ -39,7 +39,7 @@ He shouting gets on my nerves. [(see here)](./ing-form-as-subject-object-or-comp
 
 Thank you for your waiting. [(see here)](./ing-form-as-subject-object-or-complement#the-opening-of-parliament-my-smoking)
 
-We’re all excited about his arriving. [(see here)](./ing-form-as-subject-object-or-complement#nouns-and-ing-forms)
+We’re all excited about his arriving. [(see here)](./ing-form-as-subject-object-or-complement#nouns-and--ing-forms)
 
 I was very interesting in the lesson. [(see here)](./participles-ing-and-ed-forms-used-like-adjectives#participles-and-adjectives-interested-and-interesting-etc)
 

@@ -153,7 +153,7 @@ It is not always easy to know which preposition to use after a particular noun, 
 - **fight, struggle**, etc against something
   - *As Schiller said, **against** stupidity even the gods **fight** in vain.*
 
-- **frightened of** or **by**: [(see here)](./../infinitives-ing-forms-and-past-participles/participles-ing-and-ed-forms-used-like-adjectives#frightened-by-frightened-of).
+- **frightened of** or **by**: [(see here)](./../infinitives-ing-forms-and-past-participles/participles-ing-and-ed-forms-used-like-adjectives#frightened-by--frightened-of).
 
 - **get in(to)** and **out of** a car, taxi or small boat
   - *When I **got into** my car, I found the radio had been stolen.*

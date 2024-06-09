@@ -21,7 +21,7 @@ sidebar_position: 13
 
 :::note
 
-For *have* + object + infinitive (meaning ‘order/instruct somebody to do something’), [(see here)](./causative-and-similar-structures-with-have#causative-have-somebody-do-doing-something).
+For *have* + object + infinitive (meaning ‘order/instruct somebody to do something’), [(see here)](./causative-and-similar-structures-with-have#causative-have-somebody-dodoing-something).
 
 :::
 

@@ -18,7 +18,7 @@ Note that *mine*, *yours*, etc [(see here)](./../pronouns/possessive-pronouns-mi
 
 ## *one’s* and *whose*
 
-*One’s* [(see here)](./../pronouns/one-you-and-they-used-for-people-in-general#one-you-as-subject-object-etc) and *whose* ( [(see here)](./../relative-clauses/whose), [(see here)](./../../vocabulary/word-problems-from-a-to-z/whose-question-word) are also possessive determiners/pronouns.
+*One’s* [(see here)](./../pronouns/one-you-and-they-used-for-people-in-general#oneyou-as-subject-object-etc) and *whose* ( [(see here)](./../relative-clauses/whose), [(see here)](./../../vocabulary/word-problems-from-a-to-z/whose-question-word) are also possessive determiners/pronouns.
 
 - *It’s easy to lose **one’s** temper when one is criticised.*
 - *An orphan is a child **whose** parents are dead.*

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## *the idea of getting old*; *tired of listening*
 
-Some nouns and adjectives can be followed by *\-ing* forms. A preposition is normally used to connect the noun/adjective to the *\-ing* form. Nouns/adjectives that are followed by *\-ing* forms cannot usually be followed by infinitives ( [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#attempt-intend-continue-can-t-bear-be-accustomed-to-be-committed-to), [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#afraid) for some exceptions with adjectives).
+Some nouns and adjectives can be followed by *\-ing* forms. A preposition is normally used to connect the noun/adjective to the *\-ing* form. Nouns/adjectives that are followed by *\-ing* forms cannot usually be followed by infinitives ( [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#attempt-intend-continue-cant-bear-be-accustomed-to-be-committed-to), [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#afraid) for some exceptions with adjectives).
 
 - *I hate the **idea of getting** old.* (not *~~… the idea to get old.~~*)
 - *The **thought of failing** never entered his head.* (not *~~The thought to fail …~~*)
@@ -23,7 +23,7 @@ Unfortunately, there is no easy way to decide which nouns and adjectives can be 
 - *Have you got any **stuff for cleaning** silver?*
 - *I need **something for killing** flies.*
 
-This structure is mostly used to talk in general about types of object and material. When we talk about somebody’s purpose in using a particular object, we are more likely to use an infinitive [(see here)](./../../vocabulary/word-problems-from-a-to-z/for-purpose-and-cause#the-purposes-of-things-ing-forms-and-infinitives).
+This structure is mostly used to talk in general about types of object and material. When we talk about somebody’s purpose in using a particular object, we are more likely to use an infinitive [(see here)](./../../vocabulary/word-problems-from-a-to-z/for-purpose-and-cause#the-purposes-of-things--ing-forms-and-infinitives).
 
 - *I must find something **to kill** that fly.*
 

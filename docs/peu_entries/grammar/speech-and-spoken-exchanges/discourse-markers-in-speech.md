@@ -226,7 +226,7 @@ Some discourse markers express the speaker’s attitude to what he/she is saying
 
 :::tip[Phrases]
 
-*in my view/opinion; apparently; so to speak; that is to say; more or less; I think/feel/suppose/reckon/guess; sort of; kind of; really; well, at least; I’m afraid* [(see here)](./../../vocabulary/word-problems-from-a-to-z/afraid#i-m-afraid-i-m-sorry)*; actually* [(see here)](./../../vocabulary/word-problems-from-a-to-z/actual-ly)*; or rather; I mean*
+*in my view/opinion; apparently; so to speak; that is to say; more or less; I think/feel/suppose/reckon/guess; sort of; kind of; really; well, at least; I’m afraid* [(see here)](./../../vocabulary/word-problems-from-a-to-z/afraid#im-afraid--im-sorry)*; actually* [(see here)](./../../vocabulary/word-problems-from-a-to-z/actual-ly)*; or rather; I mean*
 
 :::
 

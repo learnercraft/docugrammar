@@ -73,11 +73,11 @@ In many subordinate clauses we refer to the future with present tenses instead o
 
 :::info[Do you know what’s wrong with these, and why?]
 
-What do you do this evening? [(see here)](./present-progressive-for-future#present-reality-i-m-washing-my-hair-this-evening)
+What do you do this evening? [(see here)](./present-progressive-for-future#present-reality-im-washing-my-hair-this-evening)
 
-I’m seeing him this evening and I’m really telling him what I think. [(see here)](./present-progressive-for-future#present-progressive-and-going-to-differences)
+I’m seeing him this evening and I’m really telling him what I think. [(see here)](./present-progressive-for-future#present-progressive-and-going-to--differences)
 
-It’s snowing before long. [(see here)](./present-progressive-for-future#present-progressive-and-going-to-differences)
+It’s snowing before long. [(see here)](./present-progressive-for-future#present-progressive-and-going-to--differences)
 
 Lucy comes for a drink this evening. [(see here)](./simple-present-for-future#other-cases)
 
@@ -85,7 +85,7 @@ I promise I phone you soon. [(see here)](./simple-present-for-future#other-cases
 
 ‘There’s the doorbell.’ ‘I go.’  [(see here)](./simple-present-for-future#other-cases)
 
-See those clouds? It will rain. [(see here)](./going-to#things-that-are-on-the-way-she-s-going-to-have-a-baby)
+See those clouds? It will rain. [(see here)](./going-to#things-that-are-on-the-way-shes-going-to-have-a-baby)
 
 I’ll phone you when I will arrive. [(see here)](./simple-present-for-future#subordinate-clauses-when-she-gets-a-job)
 

@@ -47,7 +47,7 @@ For more information about *\-ing* forms after nouns, [(see here)](./../infiniti
 
 For infinitives after nouns, [(see here)](./../infinitives-ing-forms-and-past-participles-after-nouns-verbs-etc/infinitives-after-nouns-and-pronouns-my-decision-to-leave).
 
-For *should* in clauses after nouns, [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#should-in-that-clauses-it-s-important-that-should).
+For *should* in clauses after nouns, [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#should-in-that-clauses-its-important-that--should).
 
 For subjunctives in clauses after nouns, [(see here)](./../conjunctions-sentences-and-clauses/subjunctive-that-she-go-that-they-be-if-i-were-etc).
 

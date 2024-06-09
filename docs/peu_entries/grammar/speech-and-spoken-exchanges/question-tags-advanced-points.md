@@ -44,7 +44,7 @@ After *let’s …* (in suggestions, etc, [(see here)](./../basic-clause-types/l
 - *There’s something wrong, **isn’t there?***
 - *There weren’t any problems, **were there?***
 
-When *there’s* introduces a plural noun phrase [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#here-s-there-s-and-where-s), the tag is *aren’t there?*
+When *there’s* introduces a plural noun phrase [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#heres-theres-and-wheres), the tag is *aren’t there?*
 
 - ***There’s** some more **chairs** upstairs, **aren’t there?***
 

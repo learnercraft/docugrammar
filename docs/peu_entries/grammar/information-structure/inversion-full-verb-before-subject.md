@@ -30,7 +30,7 @@ Inversion is normal in *here*/*there is*/*are* …
 - ***Here are** your keys.* (not *~~Here your keys are.~~*)
 - *Look – **there’s** the bus.*
 
-In informal speech, *here’s* and *there’s* often introduce plural subjects [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#here-s-there-s-and-where-s).
+In informal speech, *here’s* and *there’s* often introduce plural subjects [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#heres-theres-and-wheres).
 
 - ***Here’s** those papers you wanted.*
 

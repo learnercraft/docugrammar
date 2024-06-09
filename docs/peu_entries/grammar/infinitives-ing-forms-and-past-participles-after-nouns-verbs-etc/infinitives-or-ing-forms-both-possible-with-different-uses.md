@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Infinitives or -ing forms: both possible with different uses
 
-Some verbs and adjectives can be followed by either *\-ing* forms or infinitives [(see here)](./ing-forms-after-verbs-i-enjoy-travelling#ing-form-or-infinitive).
+Some verbs and adjectives can be followed by either *\-ing* forms or infinitives [(see here)](./ing-forms-after-verbs-i-enjoy-travelling#-ing-form-or-infinitive).
 
 - *I **started playing** / **to play** the violin when I was 10.*
 - *She was **proud of having** / **to have** won.*

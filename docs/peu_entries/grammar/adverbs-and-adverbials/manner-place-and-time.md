@@ -43,7 +43,7 @@ Mid-position (after all auxiliary verbs) is especially common with passive verbs
 - *Don’t throw orange peel **out of the window**.*
 - *She’s sitting **at the end of the garden**.*
 
-Front position is also possible, especially in literary writing and if the adverbial is not the main focus of the message. In this case the verb often comes before the subject [(see here)](./../information-structure/inversion-full-verb-before-subject#after-adverbial-expressions-of-place-along-the-road-came).
+Front position is also possible, especially in literary writing and if the adverbial is not the main focus of the message. In this case the verb often comes before the subject [(see here)](./../information-structure/inversion-full-verb-before-subject#after-adverbial-expressions-of-place-along-the-road-came-).
 
 - ***On the grass sat** an enormous frog.*
 - ***Down came** the rain.*

@@ -19,9 +19,9 @@ Note that *here* and *there* cannot normally be used as nouns.
 
 There are similar differences between *this* and *that* [(see here)](./../../grammar/determiners-a-an-and-the-my-your-etc-this-that-etc/this-and-that), *come* and *go* [(see here)](./come-and-go) and *bring* and *take* [(see here)](./bring-and-take).
 
-For *here’s* and *there’s* followed by plural nouns, [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#here-s-there-s-and-where-s).
+For *here’s* and *there’s* followed by plural nouns, [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#heres-theres-and-wheres).
 
-For inverted word order after *here* and *there*, [(see here)](./../../grammar/information-structure/inversion-full-verb-before-subject#after-adverbial-expressions-of-place-along-the-road-came).
+For inverted word order after *here* and *there*, [(see here)](./../../grammar/information-structure/inversion-full-verb-before-subject#after-adverbial-expressions-of-place-along-the-road-came-).
 
 For *Here you are*, [(see here)](./../vocabulary-areas/social-language#handing-over-things).
 

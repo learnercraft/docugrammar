@@ -10,7 +10,7 @@ sidebar_position: 1
 - *Anna’s had **a great idea.***
 - *The discussion left us in **considerable confusion**.*
 
-Names of people, places, events, etc, (e.g. *Alice*, *Canada*, *Christmas*) are called **proper nouns**; they are grammatically different from other (**common**) **nouns** in some ways – for instance, they may not have articles [(see here)](./../determiners-a-an-and-the-my-your-etc-this-that-etc/more-about-the#superlatives-i-m-the-oldest).
+Names of people, places, events, etc, (e.g. *Alice*, *Canada*, *Christmas*) are called **proper nouns**; they are grammatically different from other (**common**) **nouns** in some ways – for instance, they may not have articles [(see here)](./../determiners-a-an-and-the-my-your-etc-this-that-etc/more-about-the#superlatives-im-the-oldest).
 
 ## Countable/uncountable
 
@@ -40,13 +40,13 @@ This is a very complicated area of English grammar. General guidelines are given
 
 :::info[Do you know what’s wrong with these, and why?]
 
-The children were climbing like monkies. [(see here)](./spelling-of-plurals#plural-of-nouns-ending-in-consonant-y)
+The children were climbing like monkies. [(see here)](./spelling-of-plurals#plural-of-nouns-ending-in-consonant--y)
 
 A new disease is affecting much cattle. [(see here)](./irregular-and-special-plurals#plurals-with-no-singular-forms)
 
-A number of people has replied to my advertisement. [(see here)](./singular-expressions-with-plural-verbs#a-number-of-people-have)
+A number of people has replied to my advertisement. [(see here)](./singular-expressions-with-plural-verbs#a-number-of-people-have-)
 
-Half of them lives in Scotland. [(see here)](./singular-expressions-with-plural-verbs#a-number-of-people-have)
+Half of them lives in Scotland. [(see here)](./singular-expressions-with-plural-verbs#a-number-of-people-have-)
 
 Where are those five pounds I lent you? [(see here)](./plural-expressions-with-singular-verbs#amounts-and-quantities-that-five-pounds)
 
@@ -62,7 +62,7 @@ Is there a parking near here? [(see here)](./countable-and-uncountable-nouns-bas
 
 We’re having a terrible weather. [(see here)](./countable-and-uncountable-nouns-basic-information#the-difference)
 
-You speak an excellent English. [(see here)](./countable-and-uncountable-nouns-advanced-points#a-an-with-uncountable-nouns-a-first-class-knowledge)
+You speak an excellent English. [(see here)](./countable-and-uncountable-nouns-advanced-points#aan-with-uncountable-nouns-a-first-class-knowledge)
 
 I’m doing an interesting work. [(see here)](./countable-and-uncountable-nouns-basic-information#travel-and-a-journey-a-piece-of-advice)
 
@@ -78,6 +78,6 @@ All the staff were showing tiredness signs. [(see here)](./classifying-expressio
 
 Can you change a hundred euros note? [(see here)](./nouns-in-combination-milk-chocolate#measurement-a-five-litre-can)
 
-Please stop kicking the table’s leg. [(see here)](./classifying-expressions-with-s-a-child-s-toy-cow-s-milk#parts-a-man-s-leg-a-table-leg)
+Please stop kicking the table’s leg. [(see here)](./classifying-expressions-with-s-a-child-s-toy-cow-s-milk#parts-a-mans-leg-a-table-leg)
 
 :::

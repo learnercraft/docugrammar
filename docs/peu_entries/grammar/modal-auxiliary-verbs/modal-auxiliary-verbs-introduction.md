@@ -55,23 +55,23 @@ We do not usually use modal verbs to say that situations definitely exist, or th
 
 I must to water the plants. [(see here)](./modals-grammar-pronunciation-and-contractions#grammar)
 
-It mustn’t be Emily at the door – she’s in Ireland. [(see here)](./deduction-deciding-that-something-is-certain-must-can-t-etc#negatives-it-can-t-be-emily)
+It mustn’t be Emily at the door – she’s in Ireland. [(see here)](./deduction-deciding-that-something-is-certain-must-can-t-etc#negatives-it-cant-be-emily)
 
-You mustn’t work tomorrow if you don’t want to. [(see here)](./strong-obligation-must-will#mustn-t-and-needn-t-don-t-have-to)
+You mustn’t work tomorrow if you don’t want to. [(see here)](./strong-obligation-must-will#mustnt-and-neednt--dont-have-to)
 
 It can rain this afternoon. [(see here)](./chances-may-might-and-could#you-may-be-right-we-may-go-climbing)
 
 May you go camping this summer? [(see here)](./chances-may-might-and-could#questions-may-not-used)
 
-I felt very hot and tired. I might be ill. [(see here)](./chances-may-might-and-could#past-might-could-infinitive-not-used)
+I felt very hot and tired. I might be ill. [(see here)](./chances-may-might-and-could#past-mightcould--infinitive-not-used)
 
 I might read what I liked when I was a child. [(see here)](./permission-can-could-may-might-be-allowed-to#past-permission-could-is-not-always-possible)
 
 Next week’s exam must be easy. [(see here)](./deduction-deciding-that-something-is-certain-must-can-t-etc#must-not-used-for-predictions)
 
-Yesterday I should clean the whole house. [(see here)](./weaker-obligation-should-and-ought-to#past-use-should-have)
+Yesterday I should clean the whole house. [(see here)](./weaker-obligation-should-and-ought-to#past-use-should-have-)
 
-James should get back home yesterday. Has anybody seen him? [(see here)](./deduction-deciding-that-something-is-probable-should-ought-to-etc#past-should-have-ought-to-have)
+James should get back home yesterday. Has anybody seen him? [(see here)](./deduction-deciding-that-something-is-probable-should-ought-to-etc#past-should-have--ought-to-have-)
 
 It can rain this afternoon. [(see here)](./chances-may-might-and-could#you-may-be-right-we-may-go-climbing)
 
@@ -79,13 +79,13 @@ I’m not sure where Emma is. She can be out shopping. [(see here)](./chances-ma
 
 You have better hurry up. [(see here)](./weaker-obligation-had-better#forms)
 
-‘The phone’s ringing.’  ‘I’m going to answer it.’  [(see here)](./willingness-will-can#announcing-decisions-i-ll-answer-it)
+‘The phone’s ringing.’  ‘I’m going to answer it.’  [(see here)](./willingness-will-can#announcing-decisions-ill-answer-it)
 
-‘There’s the doorbell.’  ‘I go.’  [(see here)](./willingness-will-can#announcing-decisions-i-ll-answer-it)
+‘There’s the doorbell.’  ‘I go.’  [(see here)](./willingness-will-can#announcing-decisions-ill-answer-it)
 
-I phone you tonight. [(see here)](./willingness-will-can#promises-and-threats-i-ll-phone-you-tonight)
+I phone you tonight. [(see here)](./willingness-will-can#promises-and-threats-ill-phone-you-tonight)
 
-May everybody park here? [(see here)](./permission-can-could-may-might-be-allowed-to#talking-about-permission-can-everybody)
+May everybody park here? [(see here)](./permission-can-could-may-might-be-allowed-to#talking-about-permission-can-everybody-)
 
 Yesterday evening Daniel could watch TV for an hour. [(see here)](./permission-can-could-may-might-be-allowed-to#past-permission-could-is-not-always-possible)
 

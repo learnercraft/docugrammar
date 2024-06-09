@@ -30,7 +30,7 @@ This also happens after negative nouns or adjectives.
 
 :::note
 
-For the use of *neither … nor* to join two negative ideas (e.g. *He neither smokes nor drinks*), [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#neither-nor).
+For the use of *neither … nor* to join two negative ideas (e.g. *He neither smokes nor drinks*), [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#neither--nor).
 
 :::
 
@@ -45,7 +45,7 @@ Another way of expressing this is with ***neither/nor*** + *be*/auxiliary + subj
 - *Daniel isn’t here today. **Neither is** Jack.*
 - *I can’t sing, and **nor can** any of my family.*
 
-For details of this and similar structures, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#neither-do-i-i-can-t-either-etc).
+For details of this and similar structures, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#neither-do-i-i-cant-either-etc).
 
 *Also*, *as well* and *too* are not normally used with *not* in this way.
 

@@ -58,7 +58,7 @@ All of children can be difficult. [(see here)](./all-of-with-noun-phrases-and-pr
 
 We all can swim. [(see here)](./all-of-with-noun-phrases-and-pronouns)
 
-All stood up. [(see here)](./all-everybody-everyone-and-everything#all-and-everybody-everyone)
+All stood up. [(see here)](./all-everybody-everyone-and-everything#all-and-everybodyeveryone)
 
 All what I have is yours. [(see here)](./all-everybody-everyone-and-everything#all-and-everything)
 
@@ -68,11 +68,11 @@ The every plate was broken. [(see here)](./every-and-all#every-not-used-with-det
 
 I’ve written to my every friend. [(see here)](./every-and-all#every-not-used-with-determiners)
 
-I see her every days. [(see here)](./every-one#every-singular)
+I see her every days. [(see here)](./every-one#every--singular)
 
-Every room are being used. [(see here)](./every-one#every-singular)
+Every room are being used. [(see here)](./every-one#every--singular)
 
-Each new day are different. [(see here)](./each#each-singular)
+Each new day are different. [(see here)](./each#each--singular)
 
 He’s lost nearly each friend he had. [(see here)](./each-and-every-the-difference#structures)
 
@@ -80,7 +80,7 @@ Both my brothers carried the piano upstairs. [(see here)](./both#meaning)
 
 The both children have fair hair. [(see here)](./both#the-not-used-before-both)
 
-Come on Tuesday or Wednesday. Either days are OK. [(see here)](./either#either-singular)
+Come on Tuesday or Wednesday. Either days are OK. [(see here)](./either#either--singular)
 
 Please be quiet. Some of people want to get to sleep. [(see here)](./some#some-and-some-of-some-with-no-following-noun)
 

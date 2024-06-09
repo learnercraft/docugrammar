@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ## *every* + singular
 
-*Every* is a determiner. We normally use it before a singular noun (but [(see here)](./every-one#every-plural-noun) below). If the noun is a subject, its verb is also singular.
+*Every* is a determiner. We normally use it before a singular noun (but [(see here)](./every-one#every--plural-noun) below). If the noun is a subject, its verb is also singular.
 
 :::tip[Grammar]
 

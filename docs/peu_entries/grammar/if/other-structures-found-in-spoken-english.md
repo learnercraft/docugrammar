@@ -13,7 +13,7 @@ Conditional *would* is sometimes used in both clauses of an *if*\-sentence. This
 
 :::note
 
-For *if … would* in polite requests, [(see here)](./if-will#polite-requests-if-you-will-come-this-way).
+For *if … would* in polite requests, [(see here)](./if-will#polite-requests-if-you-will-come-this-way-).
 
 :::
 

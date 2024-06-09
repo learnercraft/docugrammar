@@ -62,7 +62,7 @@ Common verbs that can be followed by infinitives (for more detailed entries on s
 - *want*
 - *wish*
 
-Some of these verbs can be followed by object + infinitive (e.g. *I **want her to be** happy*). For details, [(see here)](./verb-object-infinitive-i-want-you-to-listen). A few verbs are followed by verb + *for* + object + infinitive (e.g. *I **arranged for her to have** violin lessons*). For details of these, [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-verbs-ask-for-to).
+Some of these verbs can be followed by object + infinitive (e.g. *I **want her to be** happy*). For details, [(see here)](./verb-object-infinitive-i-want-you-to-listen). A few verbs are followed by verb + *for* + object + infinitive (e.g. *I **arranged for her to have** violin lessons*). For details of these, [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-verbs-ask-for--to-).
 
 After some verbs we can use not only an infinitive but also an *\-ing* form (sometimes with a difference of meaning). For details, [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses).
 

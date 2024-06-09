@@ -38,7 +38,7 @@ A few verbs and adjectives are used with *to* before nouns, but are followed by 
 - *She agreed **to our plan**. / She agreed **to do** what we wanted.*
 - *He’s inclined **to anger**. / He’s inclined **to lose** his temper.*
 
-*Accustomed* can be followed by *to* + *\-ing* form or an infinitive [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#attempt-intend-continue-can-t-bear-be-accustomed-to-be-committed-to).
+*Accustomed* can be followed by *to* + *\-ing* form or an infinitive [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#attempt-intend-continue-cant-bear-be-accustomed-to-be-committed-to).
 
 ## Object + infinitive after *for*: *for her to arrive*
 

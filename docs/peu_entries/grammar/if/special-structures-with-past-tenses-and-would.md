@@ -40,11 +40,11 @@ We use *’d* as a contraction [(see here)](./../../vocabulary/word-formation-an
 
 :::note
 
-For *I should …* meaning ‘I advise you to …’, [(see here)](./if-i-were-you#i-should-would).
+For *I should …* meaning ‘I advise you to …’, [(see here)](./if-i-were-you#i-shouldwould-).
 
 For *would* in the *if*\-clause, [(see here)](./other-structures-found-in-spoken-english).
 
-For *should* in the *if*\-clause, [(see here)](./other-points#if-happen-to).
+For *should* in the *if*\-clause, [(see here)](./other-points#if--happen-to).
 
 :::
 

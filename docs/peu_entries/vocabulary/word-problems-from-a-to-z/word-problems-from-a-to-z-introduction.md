@@ -50,7 +50,7 @@ Chess is a very slow play. [(see here)](./play-and-game)
 
 I have big respect for our MP. [(see here)](./big-large-and-great#abstract-nouns-usually-great)
 
-He was driving fast indeed when he crashed. [(see here)](./indeed#very-indeed)
+He was driving fast indeed when he crashed. [(see here)](./indeed#very--indeed)
 
 He’s quite anti-social, but instead he’s very generous. [(see here)](./instead-and-instead-of#adverb-instead)
 
@@ -58,7 +58,7 @@ No doubt the world is getting warmer. [(see here)](./no-doubt)
 
 I don’t like nowadays fashion. [(see here)](./nowadays)
 
-There’s a supermarket right in front of my house. [(see here)](./opposite-facing-and-in-front-of#across-a-road-room-etc-from-opposite-facing)
+There’s a supermarket right in front of my house. [(see here)](./opposite-facing-and-in-front-of#across-a-roadroom-etc-from-oppositefacing)
 
 It’s good if a child can have an own room. [(see here)](./own#after-possessives)
 

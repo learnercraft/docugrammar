@@ -16,9 +16,9 @@ The company has doubled it’s profits this year. [(see here)](./correctness#sli
 
 I could not understanding the lecture. [(see here)](./correctness#slips-and-mistakes-he-works-in-wildlife-conversation)
 
-I ain’t done nothing. [(see here)](./correctness#dialect-forms-i-ain-t-done-nothing)
+I ain’t done nothing. [(see here)](./correctness#dialect-forms-i-aint-done-nothing)
 
-I wants a drink. [(see here)](./correctness#dialect-forms-i-ain-t-done-nothing)
+I wants a drink. [(see here)](./correctness#dialect-forms-i-aint-done-nothing)
 
 Jack and me went to the cinema. [(see here)](./correctness#divided-usage-different-from-different-to)
 
@@ -46,7 +46,7 @@ You pronounced it wrong. [(see here)](./changes-in-english#some-more-examples-of
 
 Be not afraid. [(see here)](./changes-in-english#older-english-verb-forms-tell-me-what-thou-knowest)
 
-I lost my coin-purse. [(see here)](./american-and-british-english#vocabulary-sidewalk-pavement)
+I lost my coin-purse. [(see here)](./american-and-british-english#vocabulary-sidewalkpavement)
 
 You’re tired, is it? [(see here)](./other-varieties-of-english#non-native-varieties)
 

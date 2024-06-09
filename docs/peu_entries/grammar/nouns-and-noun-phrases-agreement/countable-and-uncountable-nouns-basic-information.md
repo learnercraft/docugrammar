@@ -33,7 +33,7 @@ sidebar_position: 5
 - *furniture*
 - *machinery*
 
-We cannot use numbers with uncountable nouns, and most are singular with no plurals. We do not normally use *a/an* with uncountable nouns, though there are some exceptions [(see here)](./countable-and-uncountable-nouns-advanced-points#a-an-with-uncountable-nouns-a-first-class-knowledge).
+We cannot use numbers with uncountable nouns, and most are singular with no plurals. We do not normally use *a/an* with uncountable nouns, though there are some exceptions [(see here)](./countable-and-uncountable-nouns-advanced-points#aan-with-uncountable-nouns-a-first-class-knowledge).
 
 - *clear water* (not *~~a clear water, two clear waters~~*)
 - *pure wool* (not *~~a pure wool, two pure wools~~*)

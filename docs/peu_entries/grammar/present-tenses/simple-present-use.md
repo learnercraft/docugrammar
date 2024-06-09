@@ -96,11 +96,11 @@ However, the simple present is used for this ‘around the present’ meaning wi
 
 We do not normally use the simple present to talk about the future.
 
-- *I promise I **won’t smoke** any more.* (not *~~I promise I don’t smoke …~~*) [(see here)](./../modal-auxiliary-verbs/willingness-will-can#promises-and-threats-i-ll-phone-you-tonight)
+- *I promise I **won’t smoke** any more.* (not *~~I promise I don’t smoke …~~*) [(see here)](./../modal-auxiliary-verbs/willingness-will-can#promises-and-threats-ill-phone-you-tonight)
 - *We’**re going** to the theatre this evening.* (not *~~We go to the theatre this evening.~~*)
-- *‘There’s the doorbell.’ ‘I’**ll get** it.’* (not *~~I get it.~~*) [(see here)](./../modal-auxiliary-verbs/willingness-will-can#announcing-decisions-i-ll-answer-it)
+- *‘There’s the doorbell.’ ‘I’**ll get** it.’* (not *~~I get it.~~*) [(see here)](./../modal-auxiliary-verbs/willingness-will-can#announcing-decisions-ill-answer-it)
 
-However, the simple present is used for ‘timetabled’ future events [(see here)](./../talking-about-the-future/simple-present-for-future#timetables-etc-the-summer-term-starts).
+However, the simple present is used for ‘timetabled’ future events [(see here)](./../talking-about-the-future/simple-present-for-future#timetables-etc-the-summer-term-starts-).
 
 - *His train **arrives** at 11.46.*
 - *I **start** my new job tomorrow.*

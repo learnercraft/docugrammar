@@ -38,7 +38,7 @@ We use *will* with *if* when we are saying ‘if it is true now that …’ or �
 
 ## Indirect questions: *I don’t know if* …
 
-We can use *will* after *if* in indirect questions [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-questions-and-answers#yes-no-questions-he-asked-if).
+We can use *will* after *if* in indirect questions [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-questions-and-answers#yesno-questions-he-asked-if-).
 
 - *I don’t know if I’**ll be** ready in time.* (not *~~… if I’m ready in time.~~*)
 

@@ -48,7 +48,7 @@ Progressive verb forms came into English a few hundred years ago, and gradually 
 
 Some forms have always existed in the language, but have been ‘driven underground’ by prescriptive rules [(see here)](./correctness#prescriptive-and-descriptive-rules), so that they have been avoided by careful speakers. People are now more tolerant of such forms, so they are becoming more common. Some examples:
 
-- ***Here’s** your papers.* (instead of *Here are …* [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#here-s-there-s-and-where-s)
+- ***Here’s** your papers.* (instead of *Here are …* [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#heres-theres-and-wheres)
 - *Somebody’s left **their** umbrella behind.* (instead of … *his or her umbrella*, [(see here)](./../pronouns/singular-they)
 - ***Alice and me** went to the same primary school. [(see here)](./../pronouns/personal-pronouns-advanced-points#jack-and-me-went-between-you-and-i-us-women-understand)*
 - *between **you and I** [(see here)](./../pronouns/personal-pronouns-advanced-points#jack-and-me-went-between-you-and-i-us-women-understand)*
@@ -85,7 +85,7 @@ If this trend continues, the English auxiliary verb system could end up being co
   - *Daniel **just went** out.* (instead of *Daniel has just gone out.*)
   - *I **already told** Megan about the party.*
 
-- *May have* is increasingly used (like *might have*) for unrealised past possibilities [(see here)](./../modal-auxiliary-verbs/chances-may-might-and-could#might-could-have-you-might-could-have-killed-yourself).
+- *May have* is increasingly used (like *might have*) for unrealised past possibilities [(see here)](./../modal-auxiliary-verbs/chances-may-might-and-could#mightcould-have--you-mightcould-have-killed-yourself).
 
   - *Better treatment **may have** kept woman (who died) alive.*
 
@@ -93,7 +93,7 @@ If this trend continues, the English auxiliary verb system could end up being co
 
   - *We found Smith **sat** in a corner reading a newspaper.*
 
-- *Be like* is now very common in spoken English as a way of introducing direct speech [(see here)](./../noun-clauses-direct-and-indirect-speech/direct-speech-reporting-verbs-and-word-order#i-was-like).
+- *Be like* is now very common in spoken English as a way of introducing direct speech [(see here)](./../noun-clauses-direct-and-indirect-speech/direct-speech-reporting-verbs-and-word-order#i-was-like-).
 
   - *She **was like**, ‘What are you doing here?’.*
 

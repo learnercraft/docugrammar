@@ -35,7 +35,7 @@ We normally use *a*/*an* only with singular countable nouns.
 
 :::note
 
-For expressions like *a good two hours*, [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-a-an-adjective).
+For expressions like *a good two hours*, [(see here)](./../nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-aan--adjective).
 
 :::
 

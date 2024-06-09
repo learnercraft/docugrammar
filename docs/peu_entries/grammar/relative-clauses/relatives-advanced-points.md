@@ -40,7 +40,7 @@ This is a prescriptive rule [(see here)](./../varieties-of-english/correctness#p
 
 ## *that* for people
 
-*That* is often used in identifying relative clauses instead of *who*/*whom*/*which* [(see here)](./relatives-basic-information#that-who-which). *That* is most common as an object, or as a subject instead of *which*. *That* can be used as a subject instead of *who*, but this is quite informal. Compare:
+*That* is often used in identifying relative clauses instead of *who*/*whom*/*which* [(see here)](./relatives-basic-information#that--whowhich). *That* is most common as an object, or as a subject instead of *which*. *That* can be used as a subject instead of *who*, but this is quite informal. Compare:
 
 - *the people **that** I invited* (normal)
 - *the books **that** I lent you* (normal)

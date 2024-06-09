@@ -78,7 +78,7 @@ Some words ending in *\-ics* (e.g. *politics*, *statistics*) can also have plura
 
 Other nouns which do not change in the plural are *craft* (meaning ‘vehicle’), *aircraft*, *hovercraft*, *spacecraft*, *Chinese*, *Japanese* (and other nationality nouns ending in *\-ese*), *sheep*, *deer*, *fish*, and the names of some other living creatures, especially those that are hunted or used for food. *Fish* has a rare plural *fishes*, but the normal plural is *fish*.
 
-*Dozen*, *hundred*, *thousand*, *million*, *stone* (= 14 pounds) and *foot* (= 12 inches) have plurals without *\-s* in some kinds of expressions. For details, [(see here)](./../../vocabulary/vocabulary-areas/numbers#five-hundred-etc-without-s).
+*Dozen*, *hundred*, *thousand*, *million*, *stone* (= 14 pounds) and *foot* (= 12 inches) have plurals without *\-s* in some kinds of expressions. For details, [(see here)](./../../vocabulary/vocabulary-areas/numbers#five-hundred-etc-without--s).
 
 *Dice* (used in board games) is originally the plural of an old noun *die*. In modern English it is used as both singular and plural.
 
@@ -135,7 +135,7 @@ In noun + adverb combinations, the plural *\-s* is usually added to the noun.
 
 The plural of *mother-in-law* and similar words is generally ***mothers**\-in-law*, etc, but some people use *mother-**in-laws***, etc. The plural of *court martial* (= military court or military trial) is either ***courts** martial* (more formal) or *court **martials** (less formal).*
 
-In noun + noun combinations, the first noun is usually singular in form even if the meaning is plural (e.g. ***shoe** shop*). There are some exceptions. [(see here)](./nouns-in-combination-milk-chocolate#exceptions-first-noun-plural-a-clothes-shop).
+In noun + noun combinations, the first noun is usually singular in form even if the meaning is plural (e.g. ***shoe** shop*). There are some exceptions. [(see here)](./nouns-in-combination-milk-chocolate#exceptions-first-noun-plural--a-clothes-shop).
 
 ## Plurals with no singular forms
 

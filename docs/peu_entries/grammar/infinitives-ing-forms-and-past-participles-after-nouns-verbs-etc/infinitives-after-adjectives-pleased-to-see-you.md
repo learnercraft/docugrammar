@@ -94,7 +94,7 @@ When the adjective is before a noun, the infinitive is usually after the noun.
 
 For more about *enough*/*too* + adjective + infinitive, [(see here)](./../../vocabulary/word-problems-from-a-to-z/enough), [(see here)](./../../vocabulary/word-problems-from-a-to-z/too).
 
-For *so* + adjective + infinitive (e.g. *Would you be so kind as to help me?*), [(see here)](./../../vocabulary/word-problems-from-a-to-z/so-degree-adverb-so-tired-so-fast#so-as-to).
+For *so* + adjective + infinitive (e.g. *Would you be so kind as to help me?*), [(see here)](./../../vocabulary/word-problems-from-a-to-z/so-degree-adverb-so-tired-so-fast#so--as-to-).
 
 For information about the structures that are possible with a particular adjective, see a good dictionary.
 

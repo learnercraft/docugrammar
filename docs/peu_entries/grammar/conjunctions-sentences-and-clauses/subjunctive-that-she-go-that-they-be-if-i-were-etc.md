@@ -51,7 +51,7 @@ Subjunctives are also used in certain fixed phrases. Examples:
 
 ## Other structures
 
-Most subjunctive structures are formal and unusual in British English. In *that*\-clauses, British people usually prefer *should* + infinitive [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#should-in-that-clauses-it-s-surprising-that-should), or ordinary present and past tenses.
+Most subjunctive structures are formal and unusual in British English. In *that*\-clauses, British people usually prefer *should* + infinitive [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#should-in-that-clauses-its-surprising-that--should), or ordinary present and past tenses.
 
 - *It is essential that every child **should have** the same educational opportunities.* (or *… that every child has …*)
 - *It was important that James **should contact** Adam as soon as possible.* (or *… that James contacted …*)

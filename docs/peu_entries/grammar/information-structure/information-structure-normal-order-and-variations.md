@@ -44,7 +44,7 @@ If we want to make the patient the subject, we can usually do this by choosing a
 - ***Charlotte’s roof was blown** off by the gale.*
 - ***Ketchup has been dropped** all over the floor.*
 
-If we want to make something else the subject, we can often do this by using a structure with *have* + object + past participle [(see here)](./../infinitives-ing-forms-and-past-participles-after-nouns-verbs-etc/causative-and-similar-structures-with-have#experience-have-something-happen-happening).
+If we want to make something else the subject, we can often do this by using a structure with *have* + object + past participle [(see here)](./../infinitives-ing-forms-and-past-participles-after-nouns-verbs-etc/causative-and-similar-structures-with-have#experience-have-something-happenhappening).
 
 - ***Charlotte had her roof blown** off by the gale.*
 - ***The floor has had ketchup dropped** all over it.*

@@ -62,7 +62,7 @@ The thing that is given, sent, bought, etc is called the '**direct object**'; th
 - *Throw me **the ball**.*
 - *We wish **you a Merry Christmas**.*
 
-Not all verbs with this kind of meaning can be used like this [(see here)](#structures-withdonatepushcarryexplainsuggestdescribeandtake).
+Not all verbs with this kind of meaning can be used like this [(see here)](#structures-with-donate-push-carry-explain-suggest-describe-and-take).
 
 ## Indirect object last: *I gave the keys to Jack.*
 

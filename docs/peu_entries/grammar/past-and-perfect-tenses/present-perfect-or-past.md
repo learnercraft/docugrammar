@@ -38,7 +38,7 @@ We do not often use the present perfect with words that refer to a completely fi
 - *All my friends **have moved** to London.*  
   *Sam **moved three years ago**.* (not *~~Sam has moved three years ago.~~*)
   
-But with words that mean ‘at some/any time up to now’ (like *ever*, *before*, *never*, *yet*, *recently*, *already*), we normally use the present perfect [(see here)](./present-perfect-basic-information#repetition-up-to-now-i-ve-written-six-emails).
+But with words that mean ‘at some/any time up to now’ (like *ever*, *before*, *never*, *yet*, *recently*, *already*), we normally use the present perfect [(see here)](./present-perfect-basic-information#repetition-up-to-now-ive-written-six-emails-).
 
 - ***Have** you **ever been** to Chicago?*
 - *I’**ve seen** this film **before**.*

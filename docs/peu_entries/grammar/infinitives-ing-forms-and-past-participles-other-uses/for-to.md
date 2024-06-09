@@ -131,7 +131,7 @@ The *for*\-structure can be the subject of a clause.
 - ***For us to fail** now would be a disaster.*
 - ***For her to lose** the election would make me very happy.*
 
-However, it is more common for a structure with preparatory *it* to be used [(see here)](./for-to#it-s-impossible-for-to) above).
+However, it is more common for a structure with preparatory *it* to be used [(see here)](./for-to#its-impossible-for--to-) above).
 
 - ***It** would make me very happy **for her to lose** the election.*
 

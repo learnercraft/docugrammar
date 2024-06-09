@@ -68,7 +68,7 @@ These structures can create confusing-looking pairs of verbs.
 
 - *A bus which ran downhill out of control after its brakes **failed crashed** into a factory wall, damaging the premises and slightly injuring several passengers.*
 
-Unlike speech [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#spacing-out-information-a-course-with-three-levels-it-s-carefully-put-together), formal writing does not allow subjects to be repeated by pronouns.
+Unlike speech [(see here)](./../speech-and-spoken-exchanges/spoken-sentence-structure#spacing-out-information-a-course-with-three-levels-its-carefully-put-together), formal writing does not allow subjects to be repeated by pronouns.
 
 - *~~That picture of the children standing in front of the palace talking to the Prime Minister, it impressed everybody,~~*
 

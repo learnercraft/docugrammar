@@ -24,11 +24,11 @@ I want to live for hundred years. [(see here)](./numbers#a-and-one)
 
 I paid three thousand, a hundred pounds for the car. [(see here)](./numbers#a-and-one)
 
-Sorry, I have no change – only a twenty-pounds note. [(see here)](./numbers#five-hundred-etc-without-s)
+Sorry, I have no change – only a twenty-pounds note. [(see here)](./numbers#five-hundred-etc-without--s)
 
 ‘How old are you?’  ‘I’m thirty years.’  [(see here)](./talking-about-age#use-of-be)
 
-When I was at your age I was working in a coal mine. [(see here)](./talking-about-age#be-age)
+When I was at your age I was working in a coal mine. [(see here)](./talking-about-age#be---age)
 
 He could already read in the age of three. [(see here)](./talking-about-age#prepositions)
 

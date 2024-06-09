@@ -65,9 +65,9 @@ Your accent is the worse in the class. [(see here)](./using-comparatives-and-sup
 
 We’re going more slowly and more slowly. [(see here)](./using-comparatives-and-superlatives#double-comparatives-fatter-and-fatter-more-and-more-slowly)
 
-Older I get, more I am happy. [(see here)](./using-comparatives-and-superlatives#the-the)
+Older I get, more I am happy. [(see here)](./using-comparatives-and-superlatives#the--the-)
 
-The more it is dangerous, the more I like it. [(see here)](./using-comparatives-and-superlatives#the-the)
+The more it is dangerous, the more I like it. [(see here)](./using-comparatives-and-superlatives#the--the-)
 
 It’s the longest river of the world. [(see here)](./using-comparatives-and-superlatives#the-happiest-man-in-the-world)
 
@@ -77,7 +77,7 @@ I’m not going out with a man who’s twice older than me. [(see here)](./compa
 
 She spent more money than it was sensible. [(see here)](./comparison-advanced-points#words-left-out-after-than)
 
-Is this the first time for you to stay here? [(see here)](./comparison-advanced-points#the-youngest-person-to)
+Is this the first time for you to stay here? [(see here)](./comparison-advanced-points#the-youngest-person-to-)
 
 This dictionary is best I could find. [(see here)](./comparison-advanced-points#superlatives-with-or-without-the)
 

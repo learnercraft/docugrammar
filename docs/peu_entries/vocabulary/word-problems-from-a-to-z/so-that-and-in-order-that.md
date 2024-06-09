@@ -37,7 +37,7 @@ In sentences about the past, *would*, *could* or *should* are generally used wit
 
 For the infinitive structures *in order to* and *so as to*, [(see here)](./../../grammar/infinitives-ing-forms-and-past-participles-other-uses/infinitive-of-purpose-i-sat-down-to-rest#in-order-to-so-as-to).
 
-For *so … that* expressing result, [(see here)](./so-degree-adverb-so-tired-so-fast#so-that).
+For *so … that* expressing result, [(see here)](./so-degree-adverb-so-tired-so-fast#so--that).
 
 For *lest* meaning ‘so that … not’, [(see here)](./lest).
 

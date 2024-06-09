@@ -37,7 +37,7 @@ And academic writers may avoid presenting over-definite conclusions, by using ve
 
 ## Nominalisation
 
-Nominalisation (expressing actions by nouns, [(see here)](./reading-complicated-structures#nominalisation-and-coordination-daniel-s-failure) can help to make writing impersonal.
+Nominalisation (expressing actions by nouns, [(see here)](./reading-complicated-structures#nominalisation-and-coordination-daniels-failure) can help to make writing impersonal.
 
 - ***The discovery of penicillin** transformed the treatment of bacterial infections.* (rather than *When Fleming discovered penicillin …*)
 - ***Chemical analysis of their** bones shows that their diets differed from those of modern humans.*

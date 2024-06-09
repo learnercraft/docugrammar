@@ -127,9 +127,9 @@ Complicated structures can be produced in informal speech when reporting express
 
 :::note
 
-For more about relative structures of this kind, [(see here)](./../relative-clauses/relatives-advanced-points#somebody-i-know-you-ll-like).
+For more about relative structures of this kind, [(see here)](./../relative-clauses/relatives-advanced-points#somebody-i-know-youll-like).
 
-For more about embedding (clauses inside clauses) in general, [(see here)](./../written-texts/reading-complicated-structures#why-do-these-structures-make-reading-difficult-breaking-things-up).
+For more about embedding (clauses inside clauses) in general, [(see here)](./../written-texts/reading-complicated-structures#why-do-these-structures-make-reading-difficult----breaking-things-up).
 
 :::
 

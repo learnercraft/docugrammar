@@ -74,17 +74,17 @@ The ‘rules’ given in this Section are intended to be useful for learners. Th
 
 I’ll give her your love if I’ll see her. [(see here)](./ordinary-structures#present-tense-with-future-meaning)
 
-If you asked me, I had told you. [(see here)](./unreal-past-situations#if-past-perfect-would-have-past-participle)
+If you asked me, I had told you. [(see here)](./unreal-past-situations#if--past-perfect-would-have--past-participle)
 
-If I would know his address I would tell you. [(see here)](./special-structures-with-past-tenses-and-would#if-past-would-infinitive)
+If I would know his address I would tell you. [(see here)](./special-structures-with-past-tenses-and-would#if--past-would--infinitive)
 
-If I knew they had a problem, I could have helped them. [(see here)](./unreal-past-situations#could-have-and-might-have)
+If I knew they had a problem, I could have helped them. [(see here)](./unreal-past-situations#could-have--and-might-have-)
 
-If I were to know his address, I would tell you. [(see here)](./other-points#if-was-were-to)
+If I were to know his address, I would tell you. [(see here)](./other-points#if--waswere-to)
 
-Hadn’t we missed the plane, we would all have been killed in the crash. [(see here)](./other-points#leaving-out-if-formal-inversion-structures-had-i-realised)
+Hadn’t we missed the plane, we would all have been killed in the crash. [(see here)](./other-points#leaving-out-if-formal-inversion-structures--had-i-realised-)
 
-It would of been better if we had started earlier. [(see here)](./other-structures-found-in-spoken-english#had-ve-and-would-ve)
+It would of been better if we had started earlier. [(see here)](./other-structures-found-in-spoken-english#hadve-and-wouldve)
 
 If only I would know more people! [(see here)](./if-only)
 

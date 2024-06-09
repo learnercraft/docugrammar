@@ -28,7 +28,7 @@ The structure can also suggest anger or refusal to do something.
 
 :::note
 
-For a similar structure with *how*, [(see here)](./../../grammar/speech-and-spoken-exchanges/rhetorical-questions-who-cares#why-how-should).
+For a similar structure with *how*, [(see here)](./../../grammar/speech-and-spoken-exchanges/rhetorical-questions-who-cares#whyhow-should-).
 
 :::
 

@@ -55,7 +55,7 @@ Note also the structures with *sense*, *point*, *use* [(see here)](./../../vocab
 - ***There has*** *never **been** anybody like you.*
 - ***There will be*** *snow later in the week.*
 
-And *there* can be used in question tags [(see here)](./../speech-and-spoken-exchanges/question-tags-advanced-points#there-s-isn-t-there).
+And *there* can be used in question tags [(see here)](./../speech-and-spoken-exchanges/question-tags-advanced-points#theres--isnt-there).
 
 - *There’ll be enough for everybody, **won’t there?***
 

@@ -31,13 +31,13 @@ English has fairly fixed word order, especially in formal writing and speech. Th
 
 :::info[Do you know what’s wrong with these, and why?]
 
-The train stopped not. [(see here)](./sentence-structure-basic-word-order#negatives-auxiliary-not)
+The train stopped not. [(see here)](./sentence-structure-basic-word-order#negatives-auxiliary--not)
 
 I like very much mushrooms. [(see here)](./sentence-structure-basic-word-order#adverbials-possible-positions)
 
-When you are leaving? [(see here)](./questions-basic-rules#auxiliary-verb-before-subject-have-you)
+When you are leaving? [(see here)](./questions-basic-rules#auxiliary-verb-before-subject-have-you-)
 
-What means ‘periphrastic’? [(see here)](./questions-basic-rules#do-do-you-like)
+What means ‘periphrastic’? [(see here)](./questions-basic-rules#do-do-you-like-)
 
 What does the boss wants? [(see here)](./questions-basic-rules#infinitive-after-do-what-does-he-want)
 
@@ -45,21 +45,21 @@ Did you went climbing last weekend? [(see here)](./questions-basic-rules#infinit
 
 When was made your reservation? [(see here)](./questions-basic-rules#only-auxiliary-verb-before-subject)
 
-So there are two models. Which does cost more? [(see here)](./questions-basic-rules#who-phoned-who-did-you-phone)
+So there are two models. Which does cost more? [(see here)](./questions-basic-rules#who-phoned--who-did-you-phone)
 
-I like not this soup. [(see here)](./negative-structures-basic-rules#negative-verb-forms-auxiliary-not)
+I like not this soup. [(see here)](./negative-structures-basic-rules#negative-verb-forms-auxiliary--not)
 
-I didn’t thought it mattered. [(see here)](./negative-structures-basic-rules#negative-verb-forms-auxiliary-not)
+I didn’t thought it mattered. [(see here)](./negative-structures-basic-rules#negative-verb-forms-auxiliary--not)
 
-Expect not quick results. [(see here)](./negative-structures-basic-rules#imperatives-don-t-worry)
+Expect not quick results. [(see here)](./negative-structures-basic-rules#imperatives-dont-worry)
 
-It’s important to don’t worry. [(see here)](./negative-structures-basic-rules#infinitives-and-ing-forms-it-s-important-not-to-worry)
+It’s important to don’t worry. [(see here)](./negative-structures-basic-rules#infinitives-and--ing-forms-its-important-not-to-worry)
 
 Not George came, but his brother. [(see here)](./negative-structures-basic-rules#other-parts-of-a-clause-not-his-wife-not-before-six)
 
-‘Haven’t you written to Emily?’  ‘Yes, I haven’t.’  [(see here)](./negative-questions#is-it-true-that-not)
+‘Haven’t you written to Emily?’  ‘Yes, I haven’t.’  [(see here)](./negative-questions#is-it-true-that--not-)
 
-I don’t hope it rains tomorrow. [(see here)](./negative-structures-with-think-hope-seem-etc#i-hope-that-not)
+I don’t hope it rains tomorrow. [(see here)](./negative-structures-with-think-hope-seem-etc#i-hope-that--not-)
 
 I opened the door, but I couldn’t see nobody. [(see here)](./multiple-negatives-i-couldn-t-see-nobody#english-and-other-languages)
 

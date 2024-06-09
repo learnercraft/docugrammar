@@ -70,9 +70,9 @@ Many of the verbs listed above can also be followed by other structures such as 
 
 For passive structures with these verbs, [(see here)](./../passives/he-is-believed-to-be).
 
-For verbs that are followed by *for* + object + infinitive (e.g. *I arranged for her to go early*), [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-verbs-ask-for-to).
+For verbs that are followed by *for* + object + infinitive (e.g. *I arranged for her to go early*), [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-verbs-ask-for--to-).
 
-For object + *to be* + complement after verbs of thinking and feeling (e.g. *I considered him to be an excellent choice*), [(see here)](./../verbs/verb-object-complement-you-make-me-nervous#i-considered-him-to-be).
+For object + *to be* + complement after verbs of thinking and feeling (e.g. *I considered him to be an excellent choice*), [(see here)](./../verbs/verb-object-complement-you-make-me-nervous#i-considered-him-to-be-).
 
 For structures with *take* (e.g. *The ferry took two hours to unload*), [(see here)](./../../vocabulary/word-problems-from-a-to-z/take-time).
 

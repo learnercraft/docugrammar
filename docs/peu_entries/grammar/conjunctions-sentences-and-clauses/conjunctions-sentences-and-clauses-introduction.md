@@ -67,9 +67,9 @@ The project was not successful in political terms and in economic terms. [(see h
 
 Jack isn’t here neither. [(see here)](./not-or-not-nor-and-not#two-separate-negative-clauses-not-either)
 
-Both he can borrow the flat and he can use the car. [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#both-and)
+Both he can borrow the flat and he can use the car. [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#both--and)
 
-Neither he smiled nor he spoke. [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#neither-nor)
+Neither he smiled nor he spoke. [(see here)](./emphatic-coordination-both-and-n-either-n-or-not-only#neither--nor)
 
 She was depressed because didn’t know what to do. [(see here)](./subordinate-clauses-some-general-points#leaving-words-out)
 
@@ -79,6 +79,6 @@ As you know, that I work very hard. [(see here)](./subordinate-clauses-some-gene
 
 You’ll find Coca-Cola wherever you will go. [(see here)](./tense-simplification-in-subordinate-clauses#reasons-for-tense-simplification)
 
-If I had lots of money, I would give some to anybody who would ask for it. [(see here)](./tense-simplification-in-subordinate-clauses#past-instead-of-would)
+If I had lots of money, I would give some to anybody who would ask for it. [(see here)](./tense-simplification-in-subordinate-clauses#past-instead-of-would-)
 
 :::

@@ -54,7 +54,7 @@ This is considered incorrect in more formal usage [(see here)](./personal-pronou
 
 :::note
 
-For sentences like *It’s me that needs help*, [(see here)](./personal-pronouns-advanced-points#it-is-was-me-that-i-who).
+For sentences like *It’s me that needs help*, [(see here)](./personal-pronouns-advanced-points#it-iswas-me-that---i-who-).
 
 :::
 

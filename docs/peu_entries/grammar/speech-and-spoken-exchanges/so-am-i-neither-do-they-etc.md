@@ -54,7 +54,7 @@ For the pronunciation of *either*, [(see here)](./../determiners-quantifiers/eit
 
 For the pronunciation of *neither*, [(see here)](./../determiners-quantifiers/neither).
 
-For *neither … nor*, [(see here)](./../conjunctions-sentences-and-clauses/emphatic-coordination-both-and-n-either-n-or-not-only#neither-nor).
+For *neither … nor*, [(see here)](./../conjunctions-sentences-and-clauses/emphatic-coordination-both-and-n-either-n-or-not-only#neither--nor).
 
 For other uses of *either* and *neither*, [(see here)](./../determiners-quantifiers/either).
 

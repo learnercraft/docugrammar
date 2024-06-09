@@ -49,7 +49,7 @@ We don’t expect that you stay. [(see here)](./verb-object-infinitive-i-want-yo
 
 I suggested her to go home. [(see here)](./verb-object-infinitive-i-want-you-to-listen)
 
-He’s finished to repair the car. [(see here)](./ing-forms-after-verbs-i-enjoy-travelling#verbs-that-can-be-followed-by-ing-forms)
+He’s finished to repair the car. [(see here)](./ing-forms-after-verbs-i-enjoy-travelling#verbs-that-can-be-followed-by--ing-forms)
 
 Cricket is not very interesting to watch it. [(see here)](./infinitives-after-adjectives-pleased-to-see-you#easy-to-please)
 
@@ -67,19 +67,19 @@ I wouldn’t advise to take the car. [(see here)](./infinitives-or-ing-forms-bot
 
 I slowly began understanding how she felt. [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#begin-and-start)
 
-Responsible managers never stop to question their decisions. [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#ing-form-or-infinitive-of-purpose-stop)
+Responsible managers never stop to question their decisions. [(see here)](./infinitives-or-ing-forms-both-possible-with-different-uses#-ing-form-or-infinitive-of-purpose-stop)
 
-Susan was nowhere to find. [(see here)](./active-and-passive-infinitive-with-similar-meaning#to-be-seen-found-congratulated-etc)
+Susan was nowhere to find. [(see here)](./active-and-passive-infinitive-with-similar-meaning#to-be-seenfoundcongratulated-etc)
 
-I made her crying. [(see here)](./causative-structures-with-make#object-infinitive)
+I made her crying. [(see here)](./causative-structures-with-make#object--infinitive)
 
-I can’t make work the washing machine. [(see here)](./causative-structures-with-make#object-infinitive)
+I can’t make work the washing machine. [(see here)](./causative-structures-with-make#object--infinitive)
 
 I can make myself understand in Japanese. [(see here)](./causative-structures-with-make#make-oneself-understood-etc)
 
-The rain made wet the grass. [(see here)](./causative-structures-with-make#with-object-object-complement-make-people-welcome-etc)
+The rain made wet the grass. [(see here)](./causative-structures-with-make#with-object--object-complement-make-people-welcome-etc)
 
-You have made me be a happy man. [(see here)](./causative-structures-with-make#with-object-object-complement-make-people-welcome-etc)
+You have made me be a happy man. [(see here)](./causative-structures-with-make#with-object--object-complement-make-people-welcome-etc)
 
 I must have repaired my watch. [(see here)](./causative-and-similar-structures-with-have#causative-have-something-done)
 

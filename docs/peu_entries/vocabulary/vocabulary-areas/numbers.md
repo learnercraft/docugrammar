@@ -237,7 +237,7 @@ In an informal style, we often use *foot* instead of *feet* in other structures,
 
 For the use of *be* in measurements, [(see here)](./../../grammar/be-have-and-do/be-and-have#age-height-weight-size-and-colour).
 
-For the use of possessive forms in expressions of time (e.g. *ten minutes’ walk*; *four days’ journey*), [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/nouns-in-combination-my-father-s-house#measurement-of-time-a-day-s-journey).
+For the use of possessive forms in expressions of time (e.g. *ten minutes’ walk*; *four days’ journey*), [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/nouns-in-combination-my-father-s-house#measurement-of-time-a-days-journey).
 
 :::
 

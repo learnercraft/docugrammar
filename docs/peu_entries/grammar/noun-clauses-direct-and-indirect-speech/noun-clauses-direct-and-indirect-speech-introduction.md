@@ -61,7 +61,7 @@ This Section deals with direct speech, indirect speech and other uses of noun cl
 
 :::info[Do you know what’s wrong with these, and why?]
 
-‘You monster!’ screamed she. [(see here)](./direct-speech-reporting-verbs-and-word-order#literary-direct-speech-ask-exclaim-suggest)
+‘You monster!’ screamed she. [(see here)](./direct-speech-reporting-verbs-and-word-order#literary-direct-speech-ask-exclaim-suggest-)
 
 James wanted to go home because he doesn’t like that party. [(see here)](./indirect-speech-introduction#tenses)
 
@@ -71,7 +71,7 @@ He wanted to know what did I need. [(see here)](./indirect-speech-questions-and-
 
 We asked where the money was? [(see here)](./indirect-speech-questions-and-answers#no-question-marks)
 
-I am not certain if I see her tomorrow. [(see here)](./indirect-speech-questions-and-answers#yes-no-questions-he-asked-if)
+I am not certain if I see her tomorrow. [(see here)](./indirect-speech-questions-and-answers#yesno-questions-he-asked-if-)
 
 The driver said whether I wanted the town centre. [(see here)](./indirect-speech-questions-and-answers#say-and-tell-answers-not-questions)
 
@@ -87,13 +87,13 @@ The secretary said me not to park there. [(see here)](./indirect-speech-infiniti
 
 The Greeks thought that the sun goes round the earth. [(see here)](./indirect-speech-advanced-points#reporting-present-and-future-tenses)
 
-That she was foreign made it difficult for her to get a job. [(see here)](./that-clauses#the-fact-that)
+That she was foreign made it difficult for her to get a job. [(see here)](./that-clauses#the-fact-that-)
 
-The judge paid no attention to that she had just lost her husband. [(see here)](./that-clauses#the-fact-that)
+The judge paid no attention to that she had just lost her husband. [(see here)](./that-clauses#the-fact-that-)
 
-Who do you think that is outside? [(see here)](./that-clauses#who-do-you-wish-that-you-d-married)
+Who do you think that is outside? [(see here)](./that-clauses#who-do-you-wish-that-youd-married)
 
-He replied he was feeling better. [(see here)](./leaving-out-that#indirect-speech-he-said-that)
+He replied he was feeling better. [(see here)](./leaving-out-that#indirect-speech-he-said-that-)
 
 He disagreed with Copernicus’ view the earth went round the sun. [(see here)](./leaving-out-that#not-dropped-after-nouns)
 

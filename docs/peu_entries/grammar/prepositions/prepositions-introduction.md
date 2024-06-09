@@ -45,15 +45,15 @@ Some prepositions can also function as conjunctions: [(see here)](./../other-adv
 
 You bought it? What money with? [(see here)](./prepositions-at-the-ends-of-clauses#wh-questions-what-are-you-looking-at)
 
-I admired the patience she spoke with. [(see here)](./prepositions-at-the-ends-of-clauses#exceptions-during-which-period)
+I admired the patience she spoke with. [(see here)](./prepositions-at-the-ends-of-clauses#exceptions-during-which-period-)
 
-Which period did it happen during? [(see here)](./prepositions-at-the-ends-of-clauses#exceptions-during-which-period)
+Which period did it happen during? [(see here)](./prepositions-at-the-ends-of-clauses#exceptions-during-which-period-)
 
-For whom is it, madam? [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom)
+For whom is it, madam? [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom-)
 
-To where shall I send it? [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom)
+To where shall I send it? [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom-)
 
-In my family, about money was never spoken. [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom)
+In my family, about money was never spoken. [(see here)](./prepositions-at-the-ends-of-clauses#formal-structures-with-whom-)
 
 I knew about that he had problems. [(see here)](./prepositions-before-conjunctions#indirect-speech-prepositions-dropped-before-that)
 

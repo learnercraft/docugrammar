@@ -8,7 +8,7 @@ A past tense does not always have a past meaning. In some kinds of sentence we c
 
 ## After conjunctions, instead of *would*: *If I paid now …*
 
-In most subordinate clauses (e.g. after *if*, *supposing*, *wherever*, *what*), we use past tenses (and not *would* …) to express ‘unreal’ or conditional ideas [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#past-instead-of-would).
+In most subordinate clauses (e.g. after *if*, *supposing*, *wherever*, *what*), we use past tenses (and not *would* …) to express ‘unreal’ or conditional ideas [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#past-instead-of-would-).
 
 - *If I **had** the money now I’d buy a car.*
 - *If you **caught** the ten o’clock train tomorrow, you would be in Edinburgh by supper-time, unless the train **was** delayed, of course.*
@@ -17,7 +17,7 @@ In most subordinate clauses (e.g. after *if*, *supposing*, *wherever*, *what*), 
 - *In a perfect world, you would be able to say exactly what you **thought**.*
 - *Ten o’clock – it’s time (that) you **went** home.* [(see here)](./../../vocabulary/word-problems-from-a-to-z/it-s-time)
 - *Don’t come and see me today – I’d rather (that) you **came** tomorrow.* [(see here)](./../../vocabulary/word-problems-from-a-to-z/rather-preference#would-rather-past-tense-with-present-or-future-meaning)
-- *I wish (that) I **had** a better memory.* [(see here)](./../../vocabulary/word-problems-from-a-to-z/wish#wish-that-clause-tenses)
+- *I wish (that) I **had** a better memory.* [(see here)](./../../vocabulary/word-problems-from-a-to-z/wish#wish--that-clause-tenses)
 
 ## Distancing in questions, requests, etc: *I wondered if …*
 
@@ -27,7 +27,7 @@ We can make questions, requests and offers less direct (and so more polite) by u
 - ***I thought** you might like some flowers.*
 - ***Did you want** cream with your coffee, sir?*
 
-Past progressive forms (*I was thinking*/*wondering*/*hoping*, etc) make sentences even less direct. [(see here)](./../speech-and-spoken-exchanges/politeness-distancing-verb-forms#progressives-i-m-hoping)
+Past progressive forms (*I was thinking*/*wondering*/*hoping*, etc) make sentences even less direct. [(see here)](./../speech-and-spoken-exchanges/politeness-distancing-verb-forms#progressives-im-hoping-)
 
 - ***I was thinking** about that idea of yours.*
 - ***I was hoping** we could have dinner together.*

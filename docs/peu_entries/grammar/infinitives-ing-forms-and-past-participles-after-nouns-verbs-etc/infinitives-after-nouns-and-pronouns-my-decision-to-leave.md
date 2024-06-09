@@ -96,9 +96,9 @@ For infinitives used to talk about people’s purposes, [(see here)](./../infini
 
 For passive infinitives (e.g. *There’s work to be done*), [(see here)](./active-and-passive-infinitive-with-similar-meaning).
 
-For *for* + object + infinitive (e.g. *Is there any need for us to stay?*), [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-nouns-it-s-a-good-idea-for-us-to).
+For *for* + object + infinitive (e.g. *Is there any need for us to stay?*), [(see here)](./../infinitives-ing-forms-and-past-participles-other-uses/for-to#after-nouns-its-a-good-idea-for-us-to-).
 
-For infinitives after *first*, *next*, *last* or superlative + noun (e.g. *the first woman to climb Everest*), [(see here)](./infinitives-after-adjectives-pleased-to-see-you#superlatives-etc-the-oldest-athlete-to-win).
+For infinitives after *first*, *next*, *last* or superlative + noun (e.g. *the first woman to climb Everest*), [(see here)](./infinitives-after-adjectives-pleased-to-see-you#superlatives-etc-the-oldest-athlete-to-win-).
 
 For more about structures with prepositions at the end, [(see here)](./../prepositions/prepositions-at-the-ends-of-clauses).
 

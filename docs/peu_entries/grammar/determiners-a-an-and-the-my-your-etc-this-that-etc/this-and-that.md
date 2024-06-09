@@ -37,7 +37,7 @@ However, *this*, etc can be used without nouns for people when we say who the pe
 - *Who’s **that**?*
 - ***These** are the Smiths.*
 
-Note also ***Those who …*** [(see here)](./this-and-that#that-those-meaning-the-one-s) below).
+Note also ***Those who …*** [(see here)](./this-and-that#that-those-meaning-the-ones) below).
 
 :::note
 

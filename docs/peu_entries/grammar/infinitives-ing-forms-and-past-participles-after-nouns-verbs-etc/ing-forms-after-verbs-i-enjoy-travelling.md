@@ -53,7 +53,7 @@ Some common verbs that are normally followed by *\-ing* forms:
 - *suggest*
 - *understand*
 
-Some verbs can be followed by both *\-ing* forms and infinitives [(see here)](#ing-form-or-infinitive) below).
+Some verbs can be followed by both *\-ing* forms and infinitives [(see here)](#-ing-form-or-infinitive) below).
 
 Unfortunately, there is no easy way to decide which structures are possible after a particular verb. It is best to check in a good dictionary.
 

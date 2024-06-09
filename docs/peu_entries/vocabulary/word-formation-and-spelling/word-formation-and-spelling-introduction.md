@@ -26,7 +26,7 @@ It is not only foreign learners who find English spelling difficult. Many Englis
 
 However, English spelling does have some fairly regular patterns, and knowledge of these can help a good deal. The most important ones are explained in this Section.
 
-For some notes on British-American spelling differences, [(see here)](./../../grammar/varieties-of-english/american-and-british-english#spelling-color-colour).
+For some notes on British-American spelling differences, [(see here)](./../../grammar/varieties-of-english/american-and-british-english#spelling-colorcolour).
 
 :::info[Do you know what’s wrong with these, and why?]
 

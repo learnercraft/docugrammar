@@ -17,7 +17,7 @@ Most of the repetitions in the following text would be avoided by a careful writ
 
 - *In this report, I have tried to forecast likely developments over the next three years. In the first section, I have tried to summarise the results of the last two years, and I have tried to summarise the present situation. In the second section, I have tried to forecast the likely consequences of the present situation, and the consequences of the present financial policy.*
 
-Casual repetition is more common in informal language, but even in conversation people often sound monotonous or clumsy if they do not vary their sentence structure and vocabulary [(see here)](./../speech-and-spoken-exchanges/avoiding-repetition-wonderful-isn-t-it). Some kinds of repetition are actually ungrammatical in both writing and speech [(see here)](./pronouns-and-other-proforms#avoiding-unnatural-ungrammatical-repetition).
+Casual repetition is more common in informal language, but even in conversation people often sound monotonous or clumsy if they do not vary their sentence structure and vocabulary [(see here)](./../speech-and-spoken-exchanges/avoiding-repetition-wonderful-isn-t-it). Some kinds of repetition are actually ungrammatical in both writing and speech [(see here)](./pronouns-and-other-proforms#avoiding-unnaturalungrammatical-repetition).
 
 ## Deliberate repetition
 

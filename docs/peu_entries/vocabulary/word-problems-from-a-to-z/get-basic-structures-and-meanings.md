@@ -24,7 +24,7 @@ Other meanings are sometimes possible.
 - *I didn’t **get** the joke.* (= understand)
 - *I’ll **get** you for this, you bastard.* (= punish, make suffer)
 
-*Get* + noun is not normally used to mean ‘become’. To express this meaning, we can use *get to be* + noun [(see here)](./get-basic-structures-and-meanings#get-ing-get-infinitive) below).
+*Get* + noun is not normally used to mean ‘become’. To express this meaning, we can use *get to be* + noun [(see here)](./get-basic-structures-and-meanings#get-ing-get--infinitive) below).
 
 - *Wayne’s **getting to be** a lovely kid.* (not *~~Wayne’s getting a lovely kid.~~*)
 

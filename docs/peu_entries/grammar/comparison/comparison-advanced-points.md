@@ -33,7 +33,7 @@ In this structure, *the* was originally a demonstrative, meaning ‘by that’.
 
 ## *three times …er*, etc
 
-Instead of *three/four*, etc *times as much* [(see here)](./as-as-as-much-many-as#half-as-as-etc), we can use *three/four*, etc *times* + comparative.
+Instead of *three/four*, etc *times as much* [(see here)](./as-as-as-much-many-as#half-as--as-etc), we can use *three/four*, etc *times* + comparative.
 
 - *She can walk **three times faster** than you.*
 - *It was **ten times more difficult** than I expected.*

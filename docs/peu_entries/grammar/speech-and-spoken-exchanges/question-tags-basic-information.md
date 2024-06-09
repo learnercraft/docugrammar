@@ -45,7 +45,7 @@ To check information or ask for agreement, we most often put negative tags after
 
 :::note
 
-For ‘same-way’ tags, [(see here)](./question-tags-advanced-points#same-way-question-tags-you-re-getting-married-are-you)
+For ‘same-way’ tags, [(see here)](./question-tags-advanced-points#same-way-question-tags-youre-getting-married-are-you)
 
 :::
 

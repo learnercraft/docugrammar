@@ -109,7 +109,7 @@ For word order in exclamations (e.g. *How kind you are!*), [(see here)](./exclam
 
 For word order with phrasal verbs (e.g. *She put out the cat / She put the cat out*), [(see here)](./../verbs/two-part-verbs-phrasal-verbs#word-order-with-objects).
 
-For structures like *the older I get …*, [(see here)](./../comparison/using-comparatives-and-superlatives#the-the).
+For structures like *the older I get …*, [(see here)](./../comparison/using-comparatives-and-superlatives#the--the-).
 
 For structures like *cold as/though she was*, [(see here)](./../other-adverbial-clauses/as-and-though-special-word-order).
 

@@ -58,8 +58,8 @@ Do you can play football? [(see here)](./do-auxiliary-verb#questions)
 
 I like not football. [(see here)](./do-auxiliary-verb#negatives)
 
-I haven’t got time to get the tickets. Who’s going to do so? [(see here)](./do-so-it-that#do-so-and-do-it-that)
+I haven’t got time to get the tickets. Who’s going to do so? [(see here)](./do-so-it-that#do-so-and-do-itthat)
 
-I like the saxophone, and I have always done it. [(see here)](./do-so-it-that#do-so-it-that-deliberate-actions)
+I like the saxophone, and I have always done it. [(see here)](./do-so-it-that#do-soitthat-deliberate-actions)
 
 :::

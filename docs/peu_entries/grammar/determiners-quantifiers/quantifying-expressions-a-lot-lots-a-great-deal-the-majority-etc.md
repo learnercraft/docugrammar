@@ -69,6 +69,6 @@ These expressions can be used without nouns if the meaning is clear. In this cas
 
 :::note
 
-For *a couple of*, [(see here)](./../nouns-and-noun-phrases-agreement/singular-expressions-with-plural-verbs#a-number-of-people-have).
+For *a couple of*, [(see here)](./../nouns-and-noun-phrases-agreement/singular-expressions-with-plural-verbs#a-number-of-people-have-).
 
 :::

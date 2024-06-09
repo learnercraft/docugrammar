@@ -28,7 +28,7 @@ Prepositions are also dropped before *that* after many common words that refer t
 
 ## *the fact that*
 
-In other cases (not involving indirect speech or words referring to emotional reactions) prepositions cannot so often be dropped before *that*\-clauses. Instead, the expression *the fact* [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#the-fact-that) is generally put between the preposition and *that*.
+In other cases (not involving indirect speech or words referring to emotional reactions) prepositions cannot so often be dropped before *that*\-clauses. Instead, the expression *the fact* [(see here)](./../noun-clauses-direct-and-indirect-speech/that-clauses#the-fact-that-) is generally put between the preposition and *that*.
 
 - *The judge paid a lot of attention **to the fact that** the child was unhappy at home.* (not *~~The judge paid a lot of attention (to) that the child …~~*)
 - *He said the parents were responsible **for the fact that** the child had run away.* (not *~~… responsible (for) that the child had run away.~~*)

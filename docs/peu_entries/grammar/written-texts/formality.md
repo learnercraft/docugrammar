@@ -30,7 +30,7 @@ Some relative structures are different [(see here)](./../relative-clauses/identi
 - ``FORMAL:`` *The man **whom** she married …*
 - ``INFORMAL:`` *The man she married …*
 
-Some determiners are followed more often by singular verb forms in formal language, and by plural forms in informal language ( [(see here)](./../determiners-quantifiers/either#either-of), [(see here)](./../determiners-quantifiers/neither#neither-of-plural). Compare:
+Some determiners are followed more often by singular verb forms in formal language, and by plural forms in informal language ( [(see here)](./../determiners-quantifiers/either#either-of), [(see here)](./../determiners-quantifiers/neither#neither-of--plural). Compare:
 
 - ``FORMAL:`` *Neither of us **likes** him.*
 - ``INFORMAL:`` *Neither of us **like** him.*

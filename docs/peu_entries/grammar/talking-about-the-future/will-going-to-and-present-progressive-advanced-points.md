@@ -50,7 +50,7 @@ The differences between the structures used to talk about the future are not alw
 - *Jack **will explain** everything to you.*  
   *Jack’**s going to explain** everything to you.*
 
-Both *going to …* [(see here)](./going-to) and stressed *will* [(see here)](./../modal-auxiliary-verbs/willingness-will-can#announcing-decisions-i-ll-answer-it) can express a strong intention or determination.
+Both *going to …* [(see here)](./going-to) and stressed *will* [(see here)](./../modal-auxiliary-verbs/willingness-will-can#announcing-decisions-ill-answer-it) can express a strong intention or determination.
 
 - *I’**m** really **going to stop** smoking!*
 - *I really **will stop** smoking!*

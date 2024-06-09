@@ -91,6 +91,6 @@ To talk about actions and situations that have continued up to the present, both
 
 :::note
 
-For present perfect tenses in clauses referring to the future (e.g. *I’ll take a rest when I’**ve finished** cleaning the kitchen*), [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#present-perfect-when-i-ve-finished).
+For present perfect tenses in clauses referring to the future (e.g. *I’ll take a rest when I’**ve finished** cleaning the kitchen*), [(see here)](./../conjunctions-sentences-and-clauses/tense-simplification-in-subordinate-clauses#present-perfect--when-ive-finished).
 
 :::

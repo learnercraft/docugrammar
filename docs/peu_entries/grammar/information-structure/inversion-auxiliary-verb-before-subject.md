@@ -70,7 +70,7 @@ Inversion sometimes happens after *as*, *than* and *so* in a literary style.
 
 ## Conditional clauses: *Were she my daughter …*
 
-In formal and literary conditional clauses, an auxiliary verb can be put before the subject instead of using *if* [(see here)](./../if/other-points#leaving-out-if-formal-inversion-structures-had-i-realised).
+In formal and literary conditional clauses, an auxiliary verb can be put before the subject instead of using *if* [(see here)](./../if/other-points#leaving-out-if-formal-inversion-structures--had-i-realised-).
 
 - ***Were she** my daughter …* (= If she were my daughter …)
 - ***Had I** realised what you intended …* (= If I had realised …)

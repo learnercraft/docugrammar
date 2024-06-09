@@ -35,6 +35,6 @@ In an *if*\-clause, we normally use a present tense to talk about the future. Th
 
 For *if* + *will* (e.g. *if it will make you feel better*), [(see here)](./if-will).
 
-For *if* + *will* in reported speech (e.g. *I don’t know if I’ll be ready*), [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-questions-and-answers#yes-no-questions-he-asked-if).
+For *if* + *will* in reported speech (e.g. *I don’t know if I’ll be ready*), [(see here)](./../noun-clauses-direct-and-indirect-speech/indirect-speech-questions-and-answers#yesno-questions-he-asked-if-).
 
 :::

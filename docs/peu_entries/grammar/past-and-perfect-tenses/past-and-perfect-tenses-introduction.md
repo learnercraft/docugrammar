@@ -21,9 +21,9 @@ In academic grammars, a distinction is often made between ‘**tense**’ (prese
 
 gallopped regreted [(see here)](./simple-past#spelling-of-regular-affirmative-past-tense-forms)
 
-‘What did you do at eight o’clock yesterday evening?’  ‘I watched TV.’  [(see here)](./past-progressive#use-what-were-you-doing-at-eight-o-clock)
+‘What did you do at eight o’clock yesterday evening?’  ‘I watched TV.’  [(see here)](./past-progressive#use-what-were-you-doing-at-eight-oclock)
 
-When I got up this morning the sun shone and the birds sang. [(see here)](./past-progressive#use-what-were-you-doing-at-eight-o-clock)
+When I got up this morning the sun shone and the birds sang. [(see here)](./past-progressive#use-what-were-you-doing-at-eight-oclock)
 
 When I was a child we were walking to school every day. [(see here)](./past-progressive#not-used-for-repeated-actions)
 
@@ -43,7 +43,7 @@ How long are you studying English? [(see here)](./present-perfect-or-present#how
 
 The Chinese have invented paper. [(see here)](./present-perfect-or-past-advanced-points#causes-and-origins-who-gave-you-that)
 
-It’s not as big as I have expected. [(see here)](./present-perfect-or-past-advanced-points#expectation-and-reality-you-re-older-than-i-thought)
+It’s not as big as I have expected. [(see here)](./present-perfect-or-past-advanced-points#expectation-and-reality-youre-older-than-i-thought)
 
 I’ve only been knowing her for two days. [(see here)](./present-perfect-simple-or-progressive#non-progressive-verbs)
 

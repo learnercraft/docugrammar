@@ -40,9 +40,9 @@ Note that *so*, *it* and *that* are not normally used in this way after auxiliar
 
 :::note
 
-For *so I am*, *so it is*, etc, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#so-subject-auxiliary-so-it-is).
+For *so I am*, *so it is*, etc, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#so--subject--auxiliary-so-it-is).
 
-For *so do I*, *so am I*, etc, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#so-auxiliary-subject).
+For *so do I*, *so am I*, etc, [(see here)](./../speech-and-spoken-exchanges/so-am-i-neither-do-they-etc#so--auxiliary--subject).
 
 For *so* with *say* and *tell*, [(see here)](./../../vocabulary/word-problems-from-a-to-z/so-with-say-and-tell).
 

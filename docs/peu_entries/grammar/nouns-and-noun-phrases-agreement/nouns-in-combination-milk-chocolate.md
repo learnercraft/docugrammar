@@ -24,7 +24,7 @@ Noun + noun expressions are often related to structures where the second noun be
 
 ## The first noun is singular: *a shoe shop*
 
-Note that the first noun is usually singular in form, even if it has a plural meaning. (For exceptions, [(see here)](./nouns-in-combination-milk-chocolate#exceptions-first-noun-plural-a-clothes-shop).)
+Note that the first noun is usually singular in form, even if it has a plural meaning. (For exceptions, [(see here)](./nouns-in-combination-milk-chocolate#exceptions-first-noun-plural--a-clothes-shop).)
 
 - *a **shoe** shop* (= a shop that sells shoes)
 - *a **tooth**brush* (= a brush for teeth)

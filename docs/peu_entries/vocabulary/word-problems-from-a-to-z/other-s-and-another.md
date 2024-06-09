@@ -54,7 +54,7 @@ However, we can use *another* before a plural noun in expressions with *few* or 
 - *I’m staying for **another few weeks**.*
 - *We need **another three chairs**.*
 
-For other cases where *a(n)* is followed by a plural, [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-a-an-adjective).
+For other cases where *a(n)* is followed by a plural, [(see here)](./../../grammar/nouns-and-noun-phrases-agreement/mixed-singular-and-plural-other-structures#another-aan--adjective).
 
 ## ‘alternative’
 

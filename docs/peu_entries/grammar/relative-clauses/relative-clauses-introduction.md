@@ -19,13 +19,13 @@ When *who*, *which*, *where*, etc are used in this way, they are called ‘**rel
 
 What’s the name of the tall man which just came in? [(see here)](./relatives-basic-information#who-whom-and-which)
 
-Is that all which is left? [(see here)](./relatives-basic-information#all-that-only-that-etc)
+Is that all which is left? [(see here)](./relatives-basic-information#all-that-only--that-etc)
 
-All what you say is true. [(see here)](./relatives-basic-information#all-that-only-that-etc)
+All what you say is true. [(see here)](./relatives-basic-information#all-that-only--that-etc)
 
 I’ve found the keys that you were looking for them. [(see here)](./relatives-basic-information#one-subject-or-object-is-enough)
 
-I saw a girl whose her hair came down to her waist. [(see here)](./relatives-basic-information#whose-a-girl-whose-hair)
+I saw a girl whose her hair came down to her waist. [(see here)](./relatives-basic-information#whose-a-girl-whose-hair-)
 
 He got married again, what surprised everybody. [(see here)](./relatives-basic-information#which-referring-to-a-whole-clause), [(see here)](./what#what-not-used)
 
@@ -37,7 +37,7 @@ This is Naomi, that sells the tickets. [(see here)](./identifying-and-non-identi
 
 I poured him a glass of wine, he drank at once. [(see here)](./identifying-and-non-identifying-clauses-the-tall-man-who-mr-rogers-who#leaving-out-object-pronouns)
 
-We met a man of whom I’ve forgotten the name. [(see here)](./whose#things-of-which-that-of)
+We met a man of whom I’ve forgotten the name. [(see here)](./whose#things-of-which-that--of)
 
 He’s married to a singer whose you may have heard. [(see here)](./whose#only-used-as-a-determiner)
 
@@ -49,10 +49,10 @@ The idea was interesting which she put forward. [(see here)](./relatives-advance
 
 You’re the one that know where to go. [(see here)](./relatives-advanced-points#agreement-of-person)
 
-I can’t think of anybody whom to invite. [(see here)](./relatives-advanced-points#relative-infinitive-a-garden-in-which-to-play)
+I can’t think of anybody whom to invite. [(see here)](./relatives-advanced-points#relative--infinitive-a-garden-in-which-to-play)
 
-The children will have a garden which to play in. [(see here)](./relatives-advanced-points#relative-infinitive-a-garden-in-which-to-play)
+The children will have a garden which to play in. [(see here)](./relatives-advanced-points#relative--infinitive-a-garden-in-which-to-play)
 
-This is a letter from my father, whom we hope will be fully recovered soon. [(see here)](./relatives-advanced-points#somebody-i-know-you-ll-like)
+This is a letter from my father, whom we hope will be fully recovered soon. [(see here)](./relatives-advanced-points#somebody-i-know-youll-like)
 
 :::
