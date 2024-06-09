@@ -2,6 +2,8 @@ import React from "react";
 import clsx from "clsx";
 import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+
 export default function NotFoundContent({ className }) {
     return (
         <main className={clsx("container margin-vert--xl", className)}>
@@ -24,7 +26,9 @@ export default function NotFoundContent({ className }) {
                             broken URL to help us fix it.
                         </Translate>
                     </p>
-                    <img src="/img/undraw_by_the_road_re_vvs7.svg" />
+                    <div className="text--center">
+                        <img src={useBaseUrl("/img/undraw_by_the_road_re_vvs7.svg")} />
+                    </div>
                 </div>
             </div>
         </main>

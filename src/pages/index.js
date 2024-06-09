@@ -14,9 +14,9 @@ function HomepageHeader() {
             <header className={clsx("hero", styles.heroBanner)}>
                 <div className="container">
                     <div className="row">
-                        <div className="col margin-bottom--md text--center">
-                            <svg width="200" height="200">
-                                <use href="./img/grammarsaurus-black-home.svg#grammarsaurus-icon" className="logo-home"></use>
+                        <div className="col margin-bottom--lg text--center">
+                            <svg width="400" height="400" className="logo-home">
+                                <use href="./img/grammarsaurus-logo-home.svg#grammarsaurus-icon"></use>
                             </svg>
                         </div>
                     </div>
