@@ -39,10 +39,7 @@ const config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    /*editUrl:
-                        'https://github.com/yell0wsuit/grammarsaurus/tree/main/',*/
+                    editUrl: "https://github.com/yell0wsuit/grammarsaurus/edit/main/",
                 },
                 blog: false,
                 theme: {
@@ -59,7 +56,7 @@ const config = {
             {
                 hashed: true,
                 explicitSearchResultPath: true,
-                docsRouteBasePath: "/"
+                docsRouteBasePath: "/",
             },
         ],
     ],
