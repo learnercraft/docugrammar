@@ -71,6 +71,7 @@ const config = {
                 logo: {
                     alt: "Grammarsaurus Logo",
                     src: "img/grammarsaurus-logo.svg",
+                    srcDark: "img/grammarsaurus-logo-darkmode.svg"
                 },
                 items: [
                     {
