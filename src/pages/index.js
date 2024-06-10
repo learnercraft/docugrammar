@@ -15,7 +15,7 @@ function HomepageHeader() {
                 <div className="container">
                     <div className="row">
                         <div className="col margin-bottom--lg text--center">
-                            <svg width="400" height="400" className="logo-home">
+                            <svg width="40vh" height="40vh" className="logo-home">
                                 <use href="./img/grammarsaurus-logo-home.svg#grammarsaurus-icon"></use>
                             </svg>
                         </div>
