@@ -46,7 +46,7 @@ Contractions are not usually written with double subjects.
 
 - ***Jack and I have** decided to split up.* (not *~~Jack and I’ve decided …~~*)
 
-The apostrophe*(’) goes in the same place as the letters that we leave out:*has not \= **hasn’t** (not *~~ha’snt~~*). But note that *shan’t* (BrE = *shall not*) and *won’t* (= ‘will not’) only have one apostrophe each.
+The apostrophe (’) goes in the same place as the letters that we leave out: *has not* \= **hasn’t** (not *~~ha’snt~~*). But note that *shan’t* (BrE = *shall not*) and *won’t* (= ‘will not’) only have one apostrophe each.
 
 Contractions are common and correct in informal writing: they represent the pronunciation of informal speech. They are not generally used in a formal style.
 
