@@ -8,7 +8,7 @@ const FeatureList = [
         Svg: require("@site/static/img/undraw_online_page_re_lhgx.svg").default,
         description: (
             <>
-                Grammarsaurus -- a collection of grammar references (powered by Docusaurus) in web format. Navigate the
+                DocuGrammar -- a collection of grammar references (powered by Docusaurus) in web format. Navigate the
                 entries you want with ease. Read anywhere, anytime on any devices with no compromises. Switch to light
                 or dark mode at any time.
             </>
@@ -19,7 +19,7 @@ const FeatureList = [
         Svg: require("@site/static/img/undraw_pair_programming_re_or4x.svg").default,
         description: (
             <>
-                The source code of Grammarsaurus is on GitHub. Mistakes, spelling errors, inconsitent format or anything
+                The source code of DocuGrammar is on GitHub. Mistakes, spelling errors, inconsitent format or anything
                 else you can spot can be edited. You can also contribute code or functions to further improve the
                 project.
             </>
