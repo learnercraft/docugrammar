@@ -8,16 +8,16 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "Grammarsaurus",
-    tagline: "Grammarsaurus - Collection of grammar references in web format (powered by Docusaurus)",
+    title: "DocuGrammar",
+    tagline: "DocuGrammar - Collection of grammar references in web format (powered by Docusaurus)",
     favicon: "img/favicon.ico",
 
     url: "https://yell0wsuit.github.io",
-    baseUrl: "/grammarsaurus/",
+    baseUrl: "/docugrammar/",
 
     // GitHub pages deployment config.
     organizationName: "yell0wsuit",
-    projectName: "grammarsaurus",
+    projectName: "docugrammar",
     trailingSlash: false,
 
     onBrokenLinks: "throw",
@@ -39,7 +39,7 @@ const config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
-                    editUrl: "https://github.com/yell0wsuit/grammarsaurus/edit/main/",
+                    editUrl: "https://github.com/yell0wsuit/docugrammar/edit/main/",
                 },
                 blog: false,
                 theme: {
@@ -67,11 +67,11 @@ const config = {
             // Replace with your project's social card
             image: "img/docusaurus-social-card.jpg",
             navbar: {
-                title: "Grammarsaurus",
+                title: "DocuGrammar",
                 logo: {
-                    alt: "Grammarsaurus Logo",
-                    src: "img/grammarsaurus-logo.svg",
-                    srcDark: "img/grammarsaurus-logo-darkmode.svg"
+                    alt: "DocuGrammar Logo",
+                    src: "img/docugrammar-logo.svg",
+                    srcDark: "img/docugrammar-logo-darkmode.svg"
                 },
                 items: [
                     {
@@ -81,7 +81,7 @@ const config = {
                         label: "Practical English Usage",
                     },
                     {
-                        href: "https://github.com/yell0wsuit/grammarsaurus",
+                        href: "https://github.com/yell0wsuit/docugrammar",
                         label: "GitHub",
                         position: "right",
                     },
@@ -89,7 +89,7 @@ const config = {
             },
             footer: {
                 style: "dark",
-                copyright: `Copyright © ${new Date().getFullYear()} Grammarsaurus. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} DocuGrammar. Built with Docusaurus.`,
             },
             prism: {
                 theme: prismThemes.github,
