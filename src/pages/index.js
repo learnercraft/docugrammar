@@ -16,7 +16,7 @@ function HomepageHeader() {
                     <div className="row">
                         <div className="col margin-bottom--lg text--center">
                             <svg width="40vh" height="40vh" className="logo-home">
-                                <use href="./img/grammarsaurus-logo-home.svg#grammarsaurus-icon"></use>
+                                <use href="./img/docugrammar-home-logo.svg#docugrammar-icon"></use>
                             </svg>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ export default function Home() {
     return (
         <Layout
             title="Homepage"
-            description="PEUsaurus - Practical English Usage in web format (powered by Docusaurus)">
+            description="DocuGrammar—a collection of grammar references in web format (powered by Docusaurus)">
             <HomepageHeader />
             <main>
                 <HomepageFeatures />

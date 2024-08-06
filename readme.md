@@ -1,6 +1,6 @@
 # DocuGrammar
 
-DocuGrammar -- a collection of grammar references powered by Docusaurus.
+DocuGrammar—a collection of grammar references powered by Docusaurus.
 
 ![Social card](./static/img/socialcard.jpg)
 
@@ -8,7 +8,7 @@ DocuGrammar -- a collection of grammar references powered by Docusaurus.
 
 ## Introduction
 
-Docugrammar is an extensive collection of grammar references designed to help learners understand and master the intricacies of language. Powered by Docusaurus, it offers a user-friendly and visually appealing platform for accessing a wealth of grammar resources.
+DocuGrammar is an extensive collection of grammar references designed to help learners understand and master the intricacies of language. Powered by Docusaurus, it offers a user-friendly and visually appealing platform for accessing a wealth of grammar resources.
 
 Currently this project only includes *Practical English Usage* (4th edition), but more grammar references will be added in the future.
 

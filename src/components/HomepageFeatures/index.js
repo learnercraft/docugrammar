@@ -8,7 +8,7 @@ const FeatureList = [
         Svg: require("@site/static/img/undraw_online_page_re_lhgx.svg").default,
         description: (
             <>
-                DocuGrammar -- a collection of grammar references (powered by Docusaurus) in web format. Navigate the
+                DocuGrammar—a collection of grammar references (powered by Docusaurus) in web format. Navigate the
                 entries you want with ease. Read anywhere, anytime on any devices with no compromises. Switch to light
                 or dark mode at any time.
             </>

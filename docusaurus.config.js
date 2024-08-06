@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
     title: "DocuGrammar",
     tagline: "DocuGrammar - Collection of grammar references in web format (powered by Docusaurus)",
-    favicon: "img/favicon.ico",
+    favicon: "img/favicon.svg",
 
     url: "https://yell0wsuit.github.io",
     baseUrl: "/docugrammar/",
@@ -71,7 +71,7 @@ const config = {
                 logo: {
                     alt: "DocuGrammar Logo",
                     src: "img/docugrammar-logo.svg",
-                    srcDark: "img/docugrammar-logo-darkmode.svg"
+                    srcDark: "img/docugrammar-logo-dark.svg"
                 },
                 items: [
                     {
