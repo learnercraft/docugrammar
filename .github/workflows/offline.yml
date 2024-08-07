@@ -17,7 +17,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Use the latest stable version you prefer
+          node-version: '21'
 
       - name: Set environment variable for hash router
         run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
@@ -47,8 +47,3 @@ jobs:
           files: docusaurus-offline-site.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # Optional: Customize the release details
-        run: |
-          gh release create "offline-release-${{ github.sha }}" docusaurus-offline-site.zip \
-          --title "Offline Browsable Version" \
-          --notes "This release contains the offline browsable version of the site."
