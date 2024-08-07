@@ -21,7 +21,7 @@ const config = {
     trailingSlash: false,
 
     onBrokenLinks: "throw",
-    onBrokenMarkdownLinks: "throw",
+    onBrokenMarkdownLinks: "warn",
 
     // Even if you don't use internationalization, you can use this field to set
     // useful metadata like html lang. For example, if your site is Chinese, you
@@ -78,7 +78,7 @@ const config = {
                         type: "docSidebar",
                         sidebarId: "tutorialSidebar",
                         position: "left",
-                        label: "Practical English Usage",
+                        label: "Grammar references",
                     },
                     {
                         href: "https://github.com/yell0wsuit/docugrammar",
