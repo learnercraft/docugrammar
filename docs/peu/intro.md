@@ -23,6 +23,6 @@ This section contains all the letters of the phonetic alphabet used in Practical
 
 ## About PEU
 
-*Practical English Usage* is a combined usage guide and learner's grammar. It is intended mainly for advanced students and teachers of English as a foreign or second language; it may also be useful to teacher trainers and materials writers. It is not addressed to native speakers of English, who need a rather different kind of reference work.
+*Practical English Usage* is a combined usage guide and learner's grammar. It is intended mainly for advanced students and teachers of English as a foreign or second language; it may also be useful to teacher trainers and materials writers. It is not addressed to native speakers of English, who need a rather different kind of reference work.
 
 Check the About PEU section in the sidebar for more information.
