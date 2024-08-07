@@ -1,0 +1,33 @@
+---
+sidebar_position: 1
+---
+
+# Verbs
+
+Verbs are one of the four major word classes, along with nouns, adjectives and adverbs. A verb refers to an action, event or state.
+
+These are verbs:
+
+<table><tbody><tr valign="top"><td>actions</td><td>events</td><td>states</td></tr><tr valign="top"><td><i>go</i></td><td><i>die</i></td><td><i>be</i></td></tr><tr valign="top"><td><i>sing</i></td><td><i>happen</i></td><td><i>have</i></td></tr><tr valign="top"><td><i>take</i></td><td><i>rain</i></td><td><i>know</i></td></tr></tbody></table>
+
+*She always **sings** at parties.*
+
+*It **rained** yesterday.*
+
+*I only **know** his first name. I don’t **know** his surname.*
+
+## Using verbs
+
+Some verbs can change their meaning or function depending on how they are used and what they combine with. Some verbs, such as *get*, *make* and *take* have many different meanings. Others, such as *be*, *do* or *have* can be used as main verbs or auxiliary verbs. ([Read more on common verbs.](../../../category/common-verbs))
+
+## Verb forms
+
+Main verbs in English have five different forms:
+
+- the base form, also known as the infinitive, e.g. work, take;
+- the past form, e.g. worked, took;
+- the past participle or \-ed form, e.g. worked, taken (in regular verbs this takes the same form as the past, but in irregular verbs it can be different, e.g. took, taken.);
+- the \-ing form, e.g. working, taking;
+- the third person singular present simple , or \-s form, e.g. works, takes
+
+([Read more on verb forms.](./Verbsbasicforms))
