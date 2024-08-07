@@ -6,6 +6,8 @@
 
 import { themes as prismThemes } from "prism-react-renderer";
 
+const isHashRouter = process.env.USE_HASH_ROUTER === "true";
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "DocuGrammar",
@@ -71,7 +73,7 @@ const config = {
                 logo: {
                     alt: "DocuGrammar Logo",
                     src: "img/docugrammar-logo.svg",
-                    srcDark: "img/docugrammar-logo-dark.svg"
+                    srcDark: "img/docugrammar-logo-dark.svg",
                 },
                 items: [
                     {
@@ -99,6 +101,10 @@ const config = {
                 disableSwitch: false,
             },
         }),
+
+    future: {
+        experimental_router: isHashRouter ? "hash" : "browser",
+    },
 };
 
 export default config;

@@ -1,0 +1,53 @@
+name: Build Offline Browsable Version
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v3
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: "21"
+
+            - name: Set environment variable for hash router
+              run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Build the offline site
+              run: npm run build
+
+            - name: Create a release directory
+              run: mkdir -p release && cp -r build/* release
+
+            - name: Create a zip file of the offline site
+              run: cd release && zip -r ../docusaurus-offline-site.zip .
+
+            - name: Upload Release Asset
+              uses: actions/upload-artifact@v2
+              with:
+                  name: docusaurus-offline-site
+                  path: docusaurus-offline-site.zip
+
+            - name: Create a new release
+              id: create_release
+              uses: softprops/action-gh-release@v2
+              with:
+                  files: docusaurus-offline-site.zip
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  gh release create "offline-release-${{ github.sha }}" docusaurus-offline-site.zip \
+                  --title "Offline Browsable Version" \
+                  --notes "This release contains the offline browsable version of the site."
