@@ -12,10 +12,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '21'
 
@@ -35,7 +35,7 @@ jobs:
         run: cd release && zip -r ../docusaurus-offline-site.zip .
 
       - name: Upload Release Asset
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: docusaurus-offline-site
           path: docusaurus-offline-site.zip
