@@ -27,21 +27,30 @@ jobs:
 
       - name: Build the offline site
         run: npm run build
+        continue-on-error: true
 
       - name: List build directory contents
-        run: ls -la build
+        if: failure()
+        run: ls -la build || echo "Build directory does not exist"
+
+      - name: Output build log
+        if: failure()
+        run: cat /home/runner/work/docugrammar/docugrammar/.docusaurus-build-log || echo "No build log found"
 
       - name: Create a release directory
         run: mkdir -p release && cp -r build/* release
+        if: success()
 
       - name: Create a zip file of the offline site
         run: cd release && zip -r ../docusaurus-offline-site.zip .
+        if: success()
 
       - name: Upload Release Asset
         uses: actions/upload-artifact@v3
         with:
           name: docusaurus-offline-site
           path: docusaurus-offline-site.zip
+        if: success()
 
       - name: Create a new release
         id: create_release
@@ -50,3 +59,4 @@ jobs:
           files: docusaurus-offline-site.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: success()
