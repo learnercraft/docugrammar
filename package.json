@@ -1,6 +1,6 @@
 {
-  "name": "peu-docusaurus",
-  "version": "0.0.0",
+  "name": "docugrammar",
+  "version": "2.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -41,6 +41,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=21.0"
   }
 }

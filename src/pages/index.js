@@ -1,28 +1,40 @@
+import React, { useEffect, useState } from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import DocugrammarHomeLogo from "@site/src/components/DocugrammarHomeLogo";
 
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
     const { siteConfig } = useDocusaurusContext();
+    const [isFileProtocol, setIsFileProtocol] = useState(false);
+
+    useEffect(() => {
+        if (window.location.protocol === "file:") {
+            setIsFileProtocol(true);
+        }
+    }, []);
+
     return (
         <>
             <header className={clsx("hero", styles.heroBanner)}>
                 <div className="container">
                     <div className="row">
                         <div className="col margin-bottom--lg text--center">
-                            <svg width="40vh" height="40vh" className="logo-home">
-                                <use href="./img/docugrammar-home-logo.svg#docugrammar-icon"></use>
-                            </svg>
+                            {isFileProtocol ? (
+                                <DocugrammarHomeLogo />
+                            ) : (
+                                <svg width="40vh" height="40vh" className="logo-home">
+                                    <use href="./img/docugrammar-home-logo.svg#docugrammar-icon"></use>
+                                </svg>
+                            )}
                         </div>
                     </div>
-                    <Heading as="h1">
-                        {siteConfig.title}
-                    </Heading>
+                    <Heading as="h1">{siteConfig.title}</Heading>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>
                     <div className={styles.buttons}>
                         <Link className="button button--secondary button--lg" to="./home">

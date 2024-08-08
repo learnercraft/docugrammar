@@ -1,62 +1,76 @@
 name: Build Offline Browsable Version
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    workflow_dispatch:
+    push:
+        branches:
+            - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '21'
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "21"
 
-      - name: Set environment variable for hash router
-        run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
+            - name: Set environment variable for hash router
+              run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
 
-      - name: Install dependencies
-        run: npm ci
+            - name: Install dependencies
+              run: npm ci
 
-      - name: Build the offline site
-        run: npm run build
-        continue-on-error: true
+            - name: Build the offline site
+              run: npm run build
+              continue-on-error: true # sometimes it gives errors, but the page is still browsable. Will remove this when the experimental_router is stable
 
-      - name: List build directory contents
-        if: always()
-        run: ls -la build || echo "Build directory does not exist"
+            - name: Create a release directory
+              run: mkdir -p release && cp -r build/* release
 
-      - name: Output build log
-        if: always()
-        run: cat /home/runner/work/docugrammar/docugrammar/.docusaurus-build-log || echo "No build log found"
+            - name: Get version from package.json
+              id: get_version
+              run: echo "PACKAGE_VERSION=$(jq -r '.version' package.json)" >> $GITHUB_ENV
 
-      - name: Create a release directory
-        run: mkdir -p release && cp -r build/* release
-        if: success()
+            - name: Create a versioned zip file of the offline site
+              run: cd release && zip -r ../docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip .
 
-      - name: Create a zip file of the offline site
-        run: cd release && zip -r ../docusaurus-offline-site.zip .
-        if: success()
+            - name: Upload Release Asset
+              uses: actions/upload-artifact@v4
+              with:
+                  name: docusaurus-offline-site
+                  path: docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip
 
-      - name: Upload Release Asset
-        uses: actions/upload-artifact@v3
-        with:
-          name: docusaurus-offline-site
-          path: docusaurus-offline-site.zip
-        if: success()
+            - name: Get latest tag
+              id: get_tag
+              run: |
+                  latest_tag=$(git tag | sort -V | tail -n 1)
+                  if [ -z "$latest_tag" ]; then
+                    new_tag="v${{ env.PACKAGE_VERSION }}"
+                  else
+                    new_tag="v$(( ${latest_tag#v} + 1 ))"
+                  fi
+                  echo "latest_tag=$new_tag" >> $GITHUB_ENV
 
-      - name: Create a new release
-        id: create_release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: docusaurus-offline-site.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        if: success()
+            - name: Create tag
+              run: |
+                  git config user.name "github-actions"
+                  git config user.email "github-actions@github.com"
+                  git tag ${{ env.latest_tag }}
+                  git push origin ${{ env.latest_tag }}
+
+            - name: Create GitHub release
+              id: create_release
+              uses: softprops/action-gh-release@v2
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  tag_name: ${{ env.latest_tag }}
+                  name: v${{ env.PACKAGE_VERSION }}
+                  body: |
+                      Release version ${{ env.PACKAGE_VERSION }} of the project.
+                  files: docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip
