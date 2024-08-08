@@ -29,6 +29,12 @@ More grammar references will be added in the future. You can suggest one by usin
 
 For more information about running your own instance for this project, please see the [Docusaurus: Installation](https://docusaurus.io/docs/installation) section.
 
+## Offline version (experimental)
+
+If you want to browse offline, grab the [latest offline version here](https://github.com/yell0wsuit/docugrammar/releases/latest).
+
+Please note that the search functionality is not available for the offline version. This is due to browser's security measure, unless Docusaurus and/or the search engine are/is updated to work for the offline version.
+
 ## Contributing
 
 Contributions are welcome. Please see the [contribution guides](./contributing.md) for more information.

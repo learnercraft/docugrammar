@@ -6,6 +6,10 @@ on:
         branches:
             - main
 
+permissions:
+    contents: write
+    id-token: write
+
 jobs:
     build:
         runs-on: ubuntu-latest
@@ -37,13 +41,13 @@ jobs:
               run: echo "PACKAGE_VERSION=$(jq -r '.version' package.json)" >> $GITHUB_ENV
 
             - name: Create a versioned zip file of the offline site
-              run: cd release && zip -r ../docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip .
+              run: cd release && zip -r ../docugrammar-offline-v${{ env.PACKAGE_VERSION }}.zip .
 
             - name: Upload Release Asset
               uses: actions/upload-artifact@v4
               with:
-                  name: docusaurus-offline-site
-                  path: docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip
+                  name: docugrammar-offline
+                  path: docugrammar-offline-v${{ env.PACKAGE_VERSION }}.zip
 
             - name: Get latest tag
               id: get_tag
@@ -73,4 +77,4 @@ jobs:
                   name: v${{ env.PACKAGE_VERSION }}
                   body: |
                       Release version ${{ env.PACKAGE_VERSION }} of the project.
-                  files: docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip
+                  files: docugrammar-offline-v${{ env.PACKAGE_VERSION }}.zip
