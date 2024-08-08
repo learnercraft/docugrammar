@@ -15,7 +15,7 @@ const config = {
     favicon: "img/favicon.ico",
 
     url: "https://yell0wsuit.github.io",
-    baseUrl: "/docugrammar/",
+    baseUrl: isHashRouter ? "/" : "/docugrammar/",
 
     // GitHub pages deployment config.
     organizationName: "yell0wsuit",
