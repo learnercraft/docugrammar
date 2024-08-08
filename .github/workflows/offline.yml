@@ -30,11 +30,11 @@ jobs:
         continue-on-error: true
 
       - name: List build directory contents
-        if: failure()
+        if: always()
         run: ls -la build || echo "Build directory does not exist"
 
       - name: Output build log
-        if: failure()
+        if: always()
         run: cat /home/runner/work/docugrammar/docugrammar/.docusaurus-build-log || echo "No build log found"
 
       - name: Create a release directory
