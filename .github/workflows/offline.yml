@@ -28,6 +28,9 @@ jobs:
       - name: Build the offline site
         run: npm run build
 
+      - name: List build directory contents
+        run: ls -la build
+
       - name: Create a release directory
         run: mkdir -p release && cp -r build/* release
 
