@@ -11,8 +11,10 @@ DocuGrammar—a collection of grammar references powered by Docusaurus.
 DocuGrammar is an extensive collection of grammar references designed to help learners understand and master the intricacies of language. Powered by Docusaurus, it offers a user-friendly and visually appealing platform for accessing a wealth of grammar resources.
 
 Currently this project includes:
+
 - *Practical English Usage* (4th edition)
 - *English Grammar Today*
+- Japanese grammar in the [Japanese app](https://japaneseapp.com/).
 
 More grammar references will be added in the future. You can suggest one by using the Issues tab.
 

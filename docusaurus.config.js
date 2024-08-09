@@ -78,9 +78,15 @@ const config = {
                 items: [
                     {
                         type: "docSidebar",
-                        sidebarId: "tutorialSidebar",
+                        sidebarId: "englishSidebar",
                         position: "left",
                         label: "Grammar references",
+                    },
+                    {
+                        type: "docSidebar",
+                        sidebarId: "japaneseSidebar",
+                        position: "left",
+                        label: "Japanese grammar",
                     },
                     {
                         href: "https://github.com/yell0wsuit/docugrammar",
