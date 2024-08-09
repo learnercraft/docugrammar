@@ -29,7 +29,7 @@ These forms are often combined with the te-form of `する` to make polite reque
 ## Example Sentences
 
 - ``音楽は私達の生活を楽しくする。``  
-  Music makes our live's more enjoyable.
+  Music makes our lives more enjoyable.
 
 - ``暖かくするしてください。``  
   Please make it warmer.
