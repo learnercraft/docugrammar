@@ -102,7 +102,7 @@ function HomepageHeader() {
                                     are commonly confused, such as above/over and make/do.
                                 </p>
                                 <div>
-                                    <Link className="button button--secondary button--lg" to="./english-grammar/egt">
+                                    <Link className="button button--secondary button--lg" to="./english-grammar/egt/intro">
                                         More info
                                     </Link>
                                 </div>
