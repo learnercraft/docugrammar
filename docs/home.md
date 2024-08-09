@@ -1,10 +1,11 @@
 ---
 sidebar_position: 1
+hide_table_of_contents: true
 ---
 
 # Main page
 
-Browse the reference material you want on the left.
+Browse the reference material you want on the top.
 
 On small screens, you may want to tap on the hamburger button on the top left.
 

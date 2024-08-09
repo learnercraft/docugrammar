@@ -68,7 +68,7 @@ function HomepageHeader() {
                                     information to deal with common language problems.
                                 </p>
                                 <div>
-                                    <Link className="button button--secondary button--lg" to="./peu/about">
+                                    <Link className="button button--secondary button--lg" to="./english-grammar/peu/about">
                                         More info
                                     </Link>
                                 </div>
@@ -102,7 +102,7 @@ function HomepageHeader() {
                                     are commonly confused, such as above/over and make/do.
                                 </p>
                                 <div>
-                                    <Link className="button button--secondary button--lg" to="./egt">
+                                    <Link className="button button--secondary button--lg" to="./english-grammar/egt">
                                         More info
                                     </Link>
                                 </div>
