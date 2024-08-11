@@ -79,7 +79,9 @@ jobs:
                       });
 
                       const latestTag = tags.length > 0 ? tags[0].name : null;
-                      const latestTagDate = latestTag ? new Date(latestTag.commit.committer.date) : null;
+                      const latestTagDate = latestTag && latestTag.commit && latestTag.commit.committer 
+                                  ? new Date(latestTag.commit.committer.date) 
+                                  : null;
 
                       const { data: commits } = await github.rest.repos.listCommits({
                         owner: context.repo.owner,
