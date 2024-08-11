@@ -79,6 +79,7 @@ jobs:
                       });
 
                       const latestTag = tags.length > 0 ? tags[0].name : null;
+                      const latestTagDate = latestTag ? new Date(latestTag.commit.committer.date) : null;
 
                       const { data: commits } = await github.rest.repos.listCommits({
                         owner: context.repo.owner,
@@ -88,7 +89,7 @@ jobs:
                       });
 
                       const changelog = commits
-                        .filter(commit => !latestTag || new Date(commit.commit.author.date) > new Date(tags[0].commit.committer.date))
+                        .filter(commit => latestTagDate ? new Date(commit.commit.author.date) > latestTagDate : true)
                         .map(commit => `- ${commit.commit.message}`)
                         .join("\n");
 
