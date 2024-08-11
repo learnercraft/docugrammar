@@ -78,11 +78,11 @@
 }
 
 html {
-    font-variation-settings: "opsz" var(--yllst-optical-size);
+    font-variation-settings: "opsz" var(--yllst-optical-size) !important;
+    font-family: var(--ifm-font-family-base);
 }
 
 * {
-    font-family: var(--ifm-font-family-base);
     font-variation-settings: "opsz" var(--yllst-optical-size);
 }
 
