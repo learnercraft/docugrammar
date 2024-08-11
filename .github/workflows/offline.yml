@@ -85,7 +85,7 @@ jobs:
                           owner: context.repo.owner,
                           repo: context.repo.repo,
                           base: latestTag,
-                          head: 'main',
+                          head: 'HEAD',
                         });
 
                         const changelog = compare.commits
@@ -95,7 +95,19 @@ jobs:
                         const finalChangelog = changelog || 'No significant changes.';
                         core.setOutput('changelog', finalChangelog);
                       } else {
-                        core.setOutput('changelog', 'No previous tags found.');
+                        const { data: commits } = await github.rest.repos.listCommits({
+                          owner: context.repo.owner,
+                          repo: context.repo.repo,
+                          per_page: 100,
+                          sha: 'HEAD',
+                        });
+
+                        const changelog = commits
+                          .map(commit => `- ${commit.commit.message}`)
+                          .join("\n");
+
+                        const finalChangelog = changelog || 'No significant changes.';
+                        core.setOutput('changelog', finalChangelog);
                       }
 
             - name: Create GitHub release
