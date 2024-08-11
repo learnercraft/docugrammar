@@ -79,25 +79,24 @@ jobs:
                       });
 
                       const latestTag = tags.length > 0 ? tags[0].name : null;
-                      const latestTagDate = latestTag && latestTag.commit && latestTag.commit.committer 
-                                  ? new Date(latestTag.commit.committer.date) 
-                                  : null;
 
-                      const { data: commits } = await github.rest.repos.listCommits({
-                        owner: context.repo.owner,
-                        repo: context.repo.repo,
-                        per_page: 100,
-                        sha: 'main',
-                      });
+                      if (latestTag) {
+                        const { data: compare } = await github.rest.repos.compareCommits({
+                          owner: context.repo.owner,
+                          repo: context.repo.repo,
+                          base: latestTag,
+                          head: 'main',
+                        });
 
-                      const changelog = commits
-                        .filter(commit => latestTagDate ? new Date(commit.commit.author.date) > latestTagDate : true)
-                        .map(commit => `- ${commit.commit.message}`)
-                        .join("\n");
+                        const changelog = compare.commits
+                          .map(commit => `- ${commit.commit.message}`)
+                          .join("\n");
 
-                      const finalChangelog = changelog || 'No significant changes.';
-
-                      core.setOutput('changelog', finalChangelog);
+                        const finalChangelog = changelog || 'No significant changes.';
+                        core.setOutput('changelog', finalChangelog);
+                      } else {
+                        core.setOutput('changelog', 'No previous tags found.');
+                      }
 
             - name: Create GitHub release
               id: create_release
@@ -108,4 +107,4 @@ jobs:
                   tag_name: ${{ env.latest_tag }}
                   name: v${{ env.PACKAGE_VERSION }}
                   body: ${{ steps.generate_changelog.outputs.changelog }}
-                  files: docusaurus-offline-site-v${{ env.PACKAGE_VERSION }}.zip
+                  files: docugrammar-offline-v${{ env.PACKAGE_VERSION }}.zip
