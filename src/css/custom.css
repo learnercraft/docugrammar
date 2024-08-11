@@ -83,7 +83,11 @@ html {
 }
 
 * {
-    font-variation-settings: "opsz" var(--yllst-optical-size);
+    font-variation-settings: "opsz" var(--yllst-optical-size) !important;
+}
+
+.navbar__search-input {
+    font-family: var(--ifm-font-family-base);
 }
 
 .logo-home {
