@@ -26,8 +26,9 @@ Traditionally-constructed letters are now much less common than other forms of c
     <details>
     <summary>Text version</summary>
 
-    > *Yours sincerely*
-    > <p style={{fontFamily: "serif", fontStyle: "italic"}}>Luke</p>
+    > *Yours sincerely*  
+    > <span style={{fontFamily: "serif", fontStyle: "italic"}}>Luke</span>
+    >
     > *Luke Forbes*
 
     </details>
@@ -58,25 +59,29 @@ For more information about paragraphing, [(see here)](./paragraphs).
 
 **Example of a formal letter and envelope**
 
-> <p style={{textAlign: "right"}}>14 Plowden Road<br />Torquay<br />Devon<br />TQ6 1RS<br />Tel 0742 06538</p>
->
-> <p style={{textAlign: "right"}}>16 June 2016</p>
->
-> The Secretary  
-> Hall School of Design  
-> 39 Beaumont Street  
-> London  
-> W4 4LJ
->
-> Dear Sir or Madam
->
-> I would be grateful if you would send me information
+<blockquote>
+
+<p style={{textAlign: "right"}}>14 Plowden Road<br />Torquay<br />Devon<br />TQ6 1RS<br />Tel 0742 06538</p>
+
+<p style={{textAlign: "right"}}>16 June 2016</p>
+
+The Secretary  
+Hall School of Design  
+39 Beaumont Street  
+London  
+W4 4LJ
+
+Dear Sir or Madam
+
+I would be grateful if you would send me information
 about the regulations for admission to the Hall School
 of Design. Could you also tell me whether the School
 arranges accommodation for students?
->
-> Your faithfully
-> <p style={{fontFamily: "serif"}}>Keith Parker</p>
-> Keith Parker
+
+Your faithfully  
+<span style={{fontFamily: "serif"}}>Keith Parker</span>
+
+Keith Parker
+</blockquote>
 
 </details>

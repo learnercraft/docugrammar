@@ -2,9 +2,11 @@
 
 DocuGrammar—a collection of grammar references powered by Docusaurus.
 
-![Social card](./static/img/socialcard.jpg)
+<p style="text-align: center">
+<a href="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml"><img src="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml/badge.svg"></a>
+</p>
 
-[![Deploy to GitHub Pages](https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml/badge.svg)](https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml)
+![Social card](./static/img/socialcard.jpg)
 
 ## Introduction
 
@@ -16,7 +18,7 @@ Currently this project includes:
 - *English Grammar Today*
 - Japanese grammar in the [Japanese app](https://japaneseapp.com/).
 
-More grammar references will be added in the future. You can suggest one by using the Issues tab.
+More grammar references will be added in the future. You can suggest one by using [the Issues tab](https://github.com/yell0wsuit/docugrammar/issues).
 
 ## Features
 
@@ -29,13 +31,15 @@ More grammar references will be added in the future. You can suggest one by usin
 
 [Visit the site](https://yell0wsuit.github.io/docugrammar/) to explore the content, or clone this repository and run your own.
 
-For more information about running your own instance for this project, please see the [Docusaurus: Installation](https://docusaurus.io/docs/installation) section.
+If you're interested in running your own instance of this project, check out the the [Docusaurus: Installation](https://docusaurus.io/docs/installation#build) section for detailed instructions. This setup requires some technical knowledge. For regular users, opting for the ready-made offline version is recommended.
 
 ## Offline version (experimental)
 
 If you want to browse offline, grab the [latest offline version here](https://github.com/yell0wsuit/docugrammar/releases/latest).
 
-Please note that the search functionality is not available for the offline version. This is due to browser's security measure, unless Docusaurus and/or the search engine are/is updated to work for the offline version.
+Download the ZIP file named `docugrammar-offline-vx.x.x.zip` (`x.x.x` represents the version number). Once downloaded, extract the ZIP file, then open the `index.html` file in your favorite browser to start browsing.
+
+Please note that the search functionality is not available for the offline version. This is due to browser's security measure, unless either Docusaurus or the search engine is updated for the offline version.
 
 ## Contributing
 

@@ -110,6 +110,7 @@ const config = {
 
     future: {
         experimental_router: isHashRouter ? "hash" : "browser",
+        experimental_faster: true,
     },
 };
 

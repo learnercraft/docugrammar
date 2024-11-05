@@ -37,6 +37,6 @@ When making a pull request, please ensure that your changes are relevant to the 
 
 - Keep changes scoped: Only modify files that are directly related to the issue or feature you are working on. Avoid including changes to unrelated files or parts of the project. Example: in a single pull request, you are fixing this bug in the ``X.js`` file, but you make changes to the ``./docs/Y.md`` file because you have found a typo there.
 - Separate concerns: If you need to make changes to unrelated parts of the project, please do so in separate pull requests. This helps keep the review process focused and efficient.
-- Clear commit essages: Ensure your commit messages clearly describe the changes made and reference the related issue or feature.
+- Clear commit messages: Ensure your commit messages clearly describe the changes made and reference the related issue or feature.
 
 By following these guidelines, you help maintain the project's clarity and ease of maintenance. Thank you for your contributions.
