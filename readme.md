@@ -2,7 +2,7 @@
 
 DocuGrammar—a collection of grammar references powered by Docusaurus.
 
-<p style="text-align: center">
+<p align="center">
 <a href="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml"><img src="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml/badge.svg"></a>
 </p>
 
