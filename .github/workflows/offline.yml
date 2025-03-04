@@ -16,12 +16,12 @@ jobs:
 
         steps:
             - name: Checkout code
-              uses: actions/checkout@v4
+              uses: actions/checkout@main
 
             - name: Set up Node.js
-              uses: actions/setup-node@v4
+              uses: actions/setup-node@main
               with:
-                  node-version: "21"
+                  node-version: 22
 
             - name: Set environment variable for hash router
               run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
