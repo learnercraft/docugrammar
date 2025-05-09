@@ -1,5 +1,6 @@
 name: "New reference suggestion"
 description: "Suggest a new grammar or language reference"
+title: "[SUGGESTION] New reference: "
 labels: ["suggestion"]
 
 body:
