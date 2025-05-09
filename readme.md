@@ -3,7 +3,7 @@
 DocuGrammar—a collection of grammar references powered by Docusaurus.
 
 <p align="center">
-<a href="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml"><img src="https://github.com/yell0wsuit/docugrammar/actions/workflows/deploy.yaml/badge.svg"></a>
+<a href="https://github.com/yllst-testing-labs/docugrammar/actions/workflows/deploy.yaml"><img src="https://github.com/yllst-testing-labs/docugrammar/actions/workflows/deploy.yaml/badge.svg"></a>
 </p>
 
 ![Social card](./static/img/socialcard.jpg)
@@ -18,7 +18,7 @@ Currently this project includes:
 - *English Grammar Today*
 - Japanese grammar in the [Japanese app](https://japaneseapp.com/).
 
-More grammar references will be added in the future. You can suggest one by using [the Issues tab](https://github.com/yell0wsuit/docugrammar/issues).
+More grammar references will be added in the future. You can suggest one by using [the Issues tab](https://github.com/yllst-testing-labs/docugrammar/issues).
 
 ## Features
 
@@ -29,13 +29,13 @@ More grammar references will be added in the future. You can suggest one by usin
 
 ## Getting Started
 
-[Visit the site](https://yell0wsuit.github.io/docugrammar/) to explore the content, or clone this repository and run your own.
+[Visit the site](https://yllst-testing-labs.github.io/docugrammar/) to explore the content, or clone this repository and run your own.
 
 If you're interested in running your own instance of this project, check out the the [Docusaurus: Installation](https://docusaurus.io/docs/installation#build) section for detailed instructions. This setup requires some technical knowledge. For regular users, opting for the ready-made offline version is recommended.
 
 ## Offline version (experimental)
 
-If you want to browse offline, grab the [latest offline version here](https://github.com/yell0wsuit/docugrammar/releases/latest).
+If you want to browse offline, grab the [latest offline version here](https://github.com/yllst-testing-labs/docugrammar/releases/latest).
 
 Download the ZIP file named `docugrammar-offline-vx.x.x.zip` (`x.x.x` represents the version number). Once downloaded, extract the ZIP file, then open the `index.html` file in your favorite browser to start browsing.
 
