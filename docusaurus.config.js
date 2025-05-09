@@ -14,11 +14,11 @@ const config = {
     tagline: "DocuGrammar - Collection of grammar references in web format (powered by Docusaurus)",
     favicon: "img/favicon.ico",
 
-    url: "https://yell0wsuit.github.io",
+    url: "https://yllst-testing-labs.github.io",
     baseUrl: isHashRouter ? "/" : "/docugrammar/",
 
     // GitHub pages deployment config.
-    organizationName: "yell0wsuit",
+    organizationName: "yllst-testing-labs",
     projectName: "docugrammar",
     trailingSlash: false,
 
@@ -41,7 +41,7 @@ const config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
-                    editUrl: "https://github.com/yell0wsuit/docugrammar/edit/main/",
+                    editUrl: "https://github.com/yllst-testing-labs/docugrammar/edit/main/",
                 },
                 blog: false,
                 theme: {
@@ -89,7 +89,7 @@ const config = {
                         label: "Japanese grammar",
                     },
                     {
-                        href: "https://github.com/yell0wsuit/docugrammar",
+                        href: "https://github.com/yllst-testing-labs/docugrammar",
                         label: "GitHub",
                         position: "right",
                     },
