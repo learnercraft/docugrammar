@@ -22,6 +22,7 @@ jobs:
               uses: actions/setup-node@main
               with:
                   node-version: 22
+                  cache: npm
 
             - name: Set environment variable for hash router
               run: echo "USE_HASH_ROUTER=true" >> $GITHUB_ENV
@@ -112,7 +113,7 @@ jobs:
 
             - name: Create GitHub release
               id: create_release
-              uses: softprops/action-gh-release@v2
+              uses: softprops/action-gh-release@da05d552573ad5aba039eaac05058a918a7bf631
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
