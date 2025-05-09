@@ -1,0 +1,29 @@
+name: "New reference suggestion"
+description: "Suggest a new grammar or language reference"
+labels: ["suggestion"]
+
+body:
+  - type: input
+    id: book_name
+    attributes:
+      label: "Book/Reference name"
+      placeholder: "Enter the name of the book or reference"
+    validations:
+      required: true
+
+  - type: input
+    id: publisher_link
+    attributes:
+      label: "Official publisher link"
+      description: "Must be from the publisher’s website (e.g., Cambridge, Oxford, etc), not from e-commerce sites like Amazon or eBay"
+      placeholder: "https://www.cambridge.org/..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "I agree that I have read and checked the information carefully. Failure to do so will get my issue closed without warning."
+          required: true
