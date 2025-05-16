@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from "react";
 import { useColorMode, useThemeConfig } from "@docusaurus/theme-common";
-import ColorModeToggle from "@theme/ColorModeToggle";
-import styles from "./styles.module.css";
 import useIsBrowser from "@docusaurus/useIsBrowser";
+import ColorModeToggle from "@theme/ColorModeToggle";
+import { useEffect, useState } from "react";
+import styles from "./styles.module.css";
 
 const THEME_SETTING_KEY = "themeSetting";
 
@@ -11,11 +11,16 @@ export default function NavbarColorModeToggle({ className }) {
     const navbarStyle = useThemeConfig().navbar.style;
     const disabled = useThemeConfig().colorMode.disableSwitch;
     const { setColorMode } = useColorMode();
-    const [mode, setMode] = useState("light");
+    const [mode, setMode] = useState(() => {
+        if (typeof window !== "undefined") {
+            return localStorage.getItem(THEME_SETTING_KEY) || "auto";
+        }
+        return "auto";
+    });
 
     useEffect(() => {
         if (isBrowser) {
-            const storedMode = localStorage.getItem(THEME_SETTING_KEY) || "light";
+            const storedMode = localStorage.getItem(THEME_SETTING_KEY) || "auto";
             setMode(storedMode);
             applyThemeSetting(storedMode);
         }
