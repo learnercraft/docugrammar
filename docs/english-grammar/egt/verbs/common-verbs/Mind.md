@@ -55,7 +55,7 @@ We say *I don't mind*, or *it doesn't matter*. We don't say *it doesn't mind*:
 
 :::note[See also]
 
-- [*Matter*](./matter)
+- [*Matter*](./Matter)
 
 :::
 
