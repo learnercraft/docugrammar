@@ -16,7 +16,7 @@ We use the verb *mind* to mean 'take care or be careful of or about something', 
 
 See also:
 
-- [Imperative clauses (*Be quiet!*)](/ImperativeclausesBequiet)
+- [Imperative clauses (*Be quiet!*)](../../verbs/infinitives-and-imperatives/ImperativeclausesBequiet)
 
 We can also use *mind* to mean 'take care of someone or something':
 
@@ -55,7 +55,7 @@ We say *I don't mind*, or *it doesn't matter*. We don't say *it doesn't mind*:
 
 :::note[See also]
 
-- [*Matter*](/matter)
+- [*Matter*](./matter)
 
 :::
 
