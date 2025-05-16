@@ -14,11 +14,11 @@ const config = {
     tagline: "DocuGrammar - Collection of grammar references in web format (powered by Docusaurus)",
     favicon: "img/favicon.ico",
 
-    url: "https://yllst-testing-labs.github.io",
+    url: "https://learnercraft.github.io",
     baseUrl: isHashRouter ? "/" : "/docugrammar/",
 
     // GitHub pages deployment config.
-    organizationName: "yllst-testing-labs",
+    organizationName: "learnercraft",
     projectName: "docugrammar",
     trailingSlash: false,
 
@@ -41,7 +41,7 @@ const config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
-                    editUrl: "https://github.com/yllst-testing-labs/docugrammar/edit/main/",
+                    editUrl: "https://github.com/learnercraft/docugrammar/edit/main/",
                 },
                 blog: false,
                 theme: {
@@ -89,7 +89,7 @@ const config = {
                         label: "Japanese grammar",
                     },
                     {
-                        href: "https://github.com/yllst-testing-labs/docugrammar",
+                        href: "https://github.com/learnercraft/docugrammar",
                         label: "GitHub",
                         position: "right",
                     },
