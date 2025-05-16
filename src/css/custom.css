@@ -6,15 +6,15 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #6f42c1;
-    --ifm-color-primary-dark: #633ab0;
-    --ifm-color-primary-darker: #5e36a6;
-    --ifm-color-primary-darkest: #4d2d89;
-    --ifm-color-primary-light: #7e56c7;
-    --ifm-color-primary-lighter: #855fcb;
-    --ifm-color-primary-lightest: #9c7dd4;
+    --ifm-color-primary: oklch(53.2% 0.157 131.589);
+    --ifm-color-primary-dark: oklch(45.3% 0.124 130.933);
+    --ifm-color-primary-darker: oklch(40.5% 0.101 131.063);
+    --ifm-color-primary-darkest: oklch(27.4% 0.072 132.109);
+    --ifm-color-primary-light: oklch(64.8% 0.2 131.684);
+    --ifm-color-primary-lighter: oklch(76.8% 0.233 130.85);
+    --ifm-color-primary-lightest: oklch(84.1% 0.238 128.85);
     --ifm-code-font-size: 0.875em;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --docusaurus-highlighted-code-line-bg: oklch(86.9% 0.022 252.894);
     --ifm-font-family-base: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
         Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     --ifm-font-family-monospace: "Roboto Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
@@ -22,20 +22,20 @@
     --yllst-optical-size: 15;
     --ifm-font-size-base: 1rem;
     --ifm-link-decoration: underline;
-    --code-color: #d63384;
+    --code-color: oklch(59.2% 0.249 0.584);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-    --ifm-color-primary: #f57f04;
-    --ifm-color-primary-dark: #dd7204;
-    --ifm-color-primary-darker: #d06c03;
-    --ifm-color-primary-darkest: #ac5903;
-    --ifm-color-primary-light: #fb8b17;
-    --ifm-color-primary-lighter: #fb9123;
-    --ifm-color-primary-lightest: #fca448;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-    --code-color: #e685b5;
+    --ifm-color-primary: oklch(70.5% 0.213 47.604);
+    --ifm-color-primary-dark: oklch(64.6% 0.222 41.116);
+    --ifm-color-primary-darker: oklch(55.3% 0.195 38.402);
+    --ifm-color-primary-darkest: oklch(47% 0.157 37.304);
+    --ifm-color-primary-light: oklch(75% 0.183 55.934);
+    --ifm-color-primary-lighter: oklch(83.7% 0.128 66.29);
+    --ifm-color-primary-lightest: oklch(95.4% 0.038 75.164);
+    --docusaurus-highlighted-code-line-bg: oklch(96.8% 0.007 247.896);
+    --code-color: oklch(71.8% 0.202 349.761);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap");
@@ -137,8 +137,6 @@ a:hover {
 
 code {
     color: var(--code-color);
-    padding: unset;
-    vertical-align: unset;
 }
 
 pre code {
