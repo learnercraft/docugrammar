@@ -93,6 +93,11 @@ const config = {
                         label: "GitHub",
                         position: "right",
                     },
+                    {
+                        href: "https://learnercraft.github.io/ispeakerreact/",
+                        label: "iSpeakerReact",
+                        position: "right",
+                    },
                 ],
             },
             footer: {
