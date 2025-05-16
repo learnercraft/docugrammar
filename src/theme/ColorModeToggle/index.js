@@ -1,11 +1,11 @@
 // ColorModeToggle/index.js
-import React from "react";
-import clsx from "clsx";
-import useIsBrowser from "@docusaurus/useIsBrowser";
 import { translate } from "@docusaurus/Translate";
-import IconLightMode from "@theme/Icon/LightMode";
+import useIsBrowser from "@docusaurus/useIsBrowser";
 import IconDarkMode from "@theme/Icon/DarkMode";
-import { CircleHalf } from 'react-bootstrap-icons';
+import IconLightMode from "@theme/Icon/LightMode";
+import clsx from "clsx";
+import React from "react";
+import { CircleHalf } from "react-bootstrap-icons";
 import styles from "./styles.module.css";
 
 function ColorModeToggle({ className, buttonClassName, value, onClick }) {
