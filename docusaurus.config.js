@@ -114,6 +114,7 @@ const config = {
         }),
 
     future: {
+        v4: true,
         experimental_router: isHashRouter ? "hash" : "browser",
         experimental_faster: true,
     },
